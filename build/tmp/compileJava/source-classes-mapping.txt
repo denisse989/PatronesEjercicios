@@ -1,0 +1,10 @@
+TareasSingletonEjercicio/EmpresaDeCambio.java
+ TareasSingletonEjercicio.EmpresaDeCambio
+TareasSingletonEjercicio/LibreCambista.java
+ TareasSingletonEjercicio.LibreCambista
+TareasSingletonEjercicio/CasaDeCambio.java
+ TareasSingletonEjercicio.CasaDeCambio
+TareasSingletonEjercicio/Banco.java
+ TareasSingletonEjercicio.Banco
+TareasSingletonEjercicio/Cliente.java
+ TareasSingletonEjercicio.Cliente
