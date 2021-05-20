@@ -1,5 +1,6 @@
 package TareaPrototype;
 
+
 public class Caracteristicas implements ICaracteristicas {
     private String tamano;
     private String cpu;

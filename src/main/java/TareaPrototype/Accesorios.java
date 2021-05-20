@@ -27,4 +27,5 @@ public class Accesorios {
     public void setOtro(String otro ) {
         this.otro=otro;
     }
+
 }

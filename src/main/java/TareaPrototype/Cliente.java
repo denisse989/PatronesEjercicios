@@ -1,5 +1,4 @@
 package TareaPrototype;
-
 import TareasSingletonEjercicio.Banco;
 import TareasSingletonEjercicio.CasaDeCambio;
 import TareasSingletonEjercicio.LibreCambista;

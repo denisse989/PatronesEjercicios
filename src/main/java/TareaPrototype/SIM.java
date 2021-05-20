@@ -24,4 +24,5 @@ public class SIM {
     public void setNumeroTelefono(String numeroTelefono) {
         this.numeroTelefono = numeroTelefono;
     }
+
 }
