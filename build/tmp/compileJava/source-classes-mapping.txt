@@ -2,9 +2,45 @@ TareasSingletonEjercicio/EmpresaDeCambio.java
  TareasSingletonEjercicio.EmpresaDeCambio
 TareasSingletonEjercicio/LibreCambista.java
  TareasSingletonEjercicio.LibreCambista
+TareasSingletonEjercicio/Cliente.java
+ TareasSingletonEjercicio.Cliente
 TareasSingletonEjercicio/CasaDeCambio.java
  TareasSingletonEjercicio.CasaDeCambio
 TareasSingletonEjercicio/Banco.java
  TareasSingletonEjercicio.Banco
-TareasSingletonEjercicio/Cliente.java
- TareasSingletonEjercicio.Cliente
+TareaPrototype/ICaracteristicas.java
+ TareaPrototype.ICaracteristicas
+TareaFactory/IPasaje.java
+ TareaFactory.IPasaje
+TareaPrototype/Cliente.java
+ TareaPrototype.Cliente
+TareaPrototype/SIM.java
+ TareaPrototype.SIM
+TareaFactory/Avion.java
+ TareaFactory.Avion
+TareaPrototype/Caracteristicas.java
+ TareaPrototype.Caracteristicas
+TareaFactory/CreatorPasaje.java
+ TareaFactory.CreatorPasaje
+TareaPrototype/Accesorios.java
+ TareaPrototype.Accesorios
+TareaFactory/Pasajero.java
+ TareaFactory.Pasajero
+TareaFactory/Origen.java
+ TareaFactory.Origen
+TareaFactory/PasajeEstandar.java
+ TareaFactory.PasajeEstandar
+TareaFactory/Destino.java
+ TareaFactory.Destino
+TareaFactory/PasajeInfantil.java
+ TareaFactory.PasajeInfantil
+TareaFactory/PasajeSolidario.java
+ TareaFactory.PasajeSolidario
+TareaFactory/Cliente.java
+ TareaFactory.Cliente
+TareaFactory/CreatorPasajeInfantil.java
+ TareaFactory.CreatorPasajeInfantil
+TareaFactory/CreatorPasajeEstandar.java
+ TareaFactory.CreatorPasajeEstandar
+TareaFactory/CreatorPasajeSolidario.java
+ TareaFactory.CreatorPasajeSolidario
