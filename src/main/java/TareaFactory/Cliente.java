@@ -4,7 +4,6 @@ public class Cliente {
 
     public  static void main (String[]args){
 
-
         PasajeEstandar pasajeEstandar1 = new CreatorPasajeEstandar().create();
         Pasajero pasajero1= new Pasajero();
         pasajero1.setNombre("Jose");
