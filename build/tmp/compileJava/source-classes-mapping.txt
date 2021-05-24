@@ -1,46 +1,66 @@
-TareasSingletonEjercicio/EmpresaDeCambio.java
- TareasSingletonEjercicio.EmpresaDeCambio
-TareasSingletonEjercicio/LibreCambista.java
- TareasSingletonEjercicio.LibreCambista
-TareasSingletonEjercicio/Cliente.java
- TareasSingletonEjercicio.Cliente
-TareasSingletonEjercicio/CasaDeCambio.java
- TareasSingletonEjercicio.CasaDeCambio
-TareasSingletonEjercicio/Banco.java
- TareasSingletonEjercicio.Banco
-TareaPrototype/ICaracteristicas.java
- TareaPrototype.ICaracteristicas
 TareaFactory/IPasaje.java
  TareaFactory.IPasaje
-TareaPrototype/Cliente.java
- TareaPrototype.Cliente
-TareaPrototype/SIM.java
- TareaPrototype.SIM
-TareaFactory/Avion.java
- TareaFactory.Avion
+TareasSingletonEjercicio/EmpresaDeCambio.java
+ TareasSingletonEjercicio.EmpresaDeCambio
+TareaAbstractFactory/Crema.java
+ TareaAbstractFactory.Crema
+TareaFactory/PasajeSolidario.java
+ TareaFactory.PasajeSolidario
+TareaAbstractFactory/Fruta.java
+ TareaAbstractFactory.Fruta
 TareaPrototype/Caracteristicas.java
  TareaPrototype.Caracteristicas
+TareaAbstractFactory/IHelado.java
+ TareaAbstractFactory.IHelado
+TareaFactory/PasajeEstandar.java
+ TareaFactory.PasajeEstandar
+TareaFactory/Destino.java
+ TareaFactory.Destino
 TareaFactory/CreatorPasaje.java
  TareaFactory.CreatorPasaje
 TareaPrototype/Accesorios.java
  TareaPrototype.Accesorios
 TareaFactory/Pasajero.java
  TareaFactory.Pasajero
-TareaFactory/Origen.java
- TareaFactory.Origen
-TareaFactory/PasajeEstandar.java
- TareaFactory.PasajeEstandar
-TareaFactory/Destino.java
- TareaFactory.Destino
-TareaFactory/PasajeInfantil.java
- TareaFactory.PasajeInfantil
-TareaFactory/PasajeSolidario.java
- TareaFactory.PasajeSolidario
 TareaFactory/Cliente.java
  TareaFactory.Cliente
+TareasSingletonEjercicio/Cliente.java
+ TareasSingletonEjercicio.Cliente
+TareaFactory/Avion.java
+ TareaFactory.Avion
+TareasSingletonEjercicio/Banco.java
+ TareasSingletonEjercicio.Banco
+TareaPrototype/Cliente.java
+ TareaPrototype.Cliente
+TareasSingletonEjercicio/CasaDeCambio.java
+ TareasSingletonEjercicio.CasaDeCambio
+TareaFactory/CreatorPasajeSolidario.java
+ TareaFactory.CreatorPasajeSolidario
+TareaAbstractFactory/Base.java
+ TareaAbstractFactory.Base
+TareaFactory/PasajeInfantil.java
+ TareaFactory.PasajeInfantil
 TareaFactory/CreatorPasajeInfantil.java
  TareaFactory.CreatorPasajeInfantil
 TareaFactory/CreatorPasajeEstandar.java
  TareaFactory.CreatorPasajeEstandar
-TareaFactory/CreatorPasajeSolidario.java
- TareaFactory.CreatorPasajeSolidario
+TareaPrototype/ICaracteristicas.java
+ TareaPrototype.ICaracteristicas
+TareasSingletonEjercicio/LibreCambista.java
+ TareasSingletonEjercicio.LibreCambista
+TareaFactory/Origen.java
+ TareaFactory.Origen
+TareaPrototype/SIM.java
+ TareaPrototype.SIM
+TareaAbstractFactory/Cliente.java
+ TareaAbstractFactory.Cliente
+TareaAbstractFactory/FactoryHelado.java
+ TareaAbstractFactory.FactoryHelado
+ TareaAbstractFactory.FactoryHelado$1
+ TareaAbstractFactory.FactoryHelado$typeHelado
+TareaAbstractFactory/HeladoAgua.java
+ TareaAbstractFactory.HeladoAgua
+TareaAbstractFactory/HeladoCrema.java
+ TareaAbstractFactory.HeladoCrema
+TareaAbstractFactory/HeladoMixto.java
+ TareaAbstractFactory.HeladoMixto
