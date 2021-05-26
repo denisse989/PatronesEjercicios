@@ -64,3 +64,29 @@ TareaAbstractFactory/HeladoCrema.java
  TareaAbstractFactory.HeladoCrema
 TareaAbstractFactory/HeladoMixto.java
  TareaAbstractFactory.HeladoMixto
+TareaBuilder/PizzaClasica.java
+ TareaBuilder.PizzaClasica
+TareaBuilder/PizzaHawaiana.java
+ TareaBuilder.PizzaHawaiana
+TareaBuilder/PizzaCarnivora.java
+ TareaBuilder.PizzaCarnivora
+TareaBuilder/Pizza.java
+ TareaBuilder.Pizza
+TareaBuilder/Dueno.java
+ TareaBuilder.Dueno
+TareaBuilder/BuilderPizza.java
+ TareaBuilder.BuilderPizza
+TareaBuilder/Cliente.java
+ TareaBuilder.Cliente
+TareaInterpreter/ContextNumeroEntero.java
+ TareaInterpreter.ContextNumeroEntero
+TareaInterpreter/AbstractNumero.java
+ TareaInterpreter.AbstractNumero
+TareaInterpreter/TerminaNumerosNaturales.java
+ TareaInterpreter.TerminaNumerosNaturales
+TareaInterpreter/Cliente.java
+ TareaInterpreter.Cliente
+TareaInterpreter/InterpreterEntero.java
+ TareaInterpreter.InterpreterEntero
+TareaInterpreter/TerminaNumerosRomanos.java
+ TareaInterpreter.TerminaNumerosRomanos
