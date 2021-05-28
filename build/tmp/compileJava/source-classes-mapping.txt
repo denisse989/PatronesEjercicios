@@ -144,3 +144,17 @@ TareaIterator/Empresa1.java
  TareaIterator.Empresa1
 TareaIterator/Empresa2.java
  TareaIterator.Empresa2
+EjerciciosClase/Tira.java
+ EjerciciosClase.Tira
+EjerciciosClase/Parrillas.java
+ EjerciciosClase.Parrillas
+EjerciciosClase/Dueno.java
+ EjerciciosClase.Dueno
+EjerciciosClase/Lomito.java
+ EjerciciosClase.Lomito
+EjerciciosClase/Cliente.java
+ EjerciciosClase.Cliente
+EjerciciosClase/Bife.java
+ EjerciciosClase.Bife
+EjerciciosClase/BuilderParrilla.java
+ EjerciciosClase.BuilderParrilla
