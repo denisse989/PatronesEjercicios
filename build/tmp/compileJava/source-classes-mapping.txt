@@ -78,15 +78,31 @@ TareaBuilder/BuilderPizza.java
  TareaBuilder.BuilderPizza
 TareaBuilder/Cliente.java
  TareaBuilder.Cliente
-TareaInterpreter/ContextNumeroEntero.java
- TareaInterpreter.ContextNumeroEntero
 TareaInterpreter/AbstractNumero.java
  TareaInterpreter.AbstractNumero
-TareaInterpreter/TerminaNumerosNaturales.java
- TareaInterpreter.TerminaNumerosNaturales
+TareaInterpreter/ContextNumeroEntero.java
+ TareaInterpreter.ContextNumeroEntero
 TareaInterpreter/Cliente.java
  TareaInterpreter.Cliente
-TareaInterpreter/InterpreterEntero.java
- TareaInterpreter.InterpreterEntero
-TareaInterpreter/TerminaNumerosRomanos.java
- TareaInterpreter.TerminaNumerosRomanos
+TareaInterpreter/Terminal3.java
+ TareaInterpreter.Terminal3
+TareaInterpreter/Terminal6.java
+ TareaInterpreter.Terminal6
+TareaInterpreter/Terminal8.java
+ TareaInterpreter.Terminal8
+TareaInterpreter/Terminal10.java
+ TareaInterpreter.Terminal10
+TareaInterpreter/Terminal4.java
+ TareaInterpreter.Terminal4
+TareaInterpreter/Terminal5.java
+ TareaInterpreter.Terminal5
+TareaInterpreter/Terminal9.java
+ TareaInterpreter.Terminal9
+TareaInterpreter/Terminal7.java
+ TareaInterpreter.Terminal7
+TareaInterpreter/NonTerminal.java
+ TareaInterpreter.NonTerminal
+TareaInterpreter/Terminal1.java
+ TareaInterpreter.Terminal1
+TareaInterpreter/Terminal2.java
+ TareaInterpreter.Terminal2

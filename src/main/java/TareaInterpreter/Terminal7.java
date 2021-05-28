@@ -1,13 +1,13 @@
 package TareaInterpreter;
 
-public class TerminaNumerosNaturales extends AbstractNumero {
-    public TerminaNumerosNaturales(int length) {
+public class Terminal7 extends AbstractNumero {
+    public Terminal7() {
     }
 
     @Override
     public void interpreter(ContextNumeroEntero context) {
-        if (context.input.startsWith("1")) {
-            context.signo=1;
+        if (context.input.startsWith("7")) {
+            context.output=context.output+"VII";
             context.input = context.input.substring(this.length);
         }
 

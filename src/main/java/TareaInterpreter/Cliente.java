@@ -3,10 +3,12 @@ package TareaInterpreter;
 public class Cliente {
     public static void main(String[] args) {
 
-        String entero="1 2 3 4 5 6 7 8 9 10";
+        String entero="1 3";
 
-        InterpreterEntero interpreterEntero = new InterpreterEntero(entero);
+        NonTerminal parcer = new NonTerminal(entero);
+        String interpretado= parcer.interpretar();
+
         System.out.println("Entero:"+entero);
-        System.out.println("Romano:" +interpreterEntero.interpretar());
+        System.out.println("Romano:" + interpretado);
     }
 }
