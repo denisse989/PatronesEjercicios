@@ -106,3 +106,41 @@ TareaInterpreter/Terminal1.java
  TareaInterpreter.Terminal1
 TareaInterpreter/Terminal2.java
  TareaInterpreter.Terminal2
+TareaInterpreter2/TerminalQuiero.java
+ TareaInterpreter2.TerminalQuiero
+TareaInterpreter2/TerminalComo.java
+ TareaInterpreter2.TerminalComo
+TareaInterpreter2/TerminalUsuario.java
+ TareaInterpreter2.TerminalUsuario
+TareaInterpreter2/TerminalPara.java
+ TareaInterpreter2.TerminalPara
+TareaInterpreter2/ContextGherkins.java
+ TareaInterpreter2.ContextGherkins
+TareaInterpreter2/Cliente.java
+ TareaInterpreter2.Cliente
+TareaInterpreter2/NoTerminalGherkins.java
+ TareaInterpreter2.NoTerminalGherkins
+TareaInterpreter2/Abstract.java
+ TareaInterpreter2.Abstract
+TareaIterator/Client.java
+ TareaIterator.Client
+TareaIterator/IteratorConcreteEmpresa3.java
+ TareaIterator.IteratorConcreteEmpresa3
+TareaIterator/IteratorConcreteEmpresa2.java
+ TareaIterator.IteratorConcreteEmpresa2
+TareaIterator/Empresa4.java
+ TareaIterator.Empresa4
+TareaIterator/IList.java
+ TareaIterator.IList
+TareaIterator/IteratorConcreteEmpresa1.java
+ TareaIterator.IteratorConcreteEmpresa1
+TareaIterator/Iterator.java
+ TareaIterator.Iterator
+TareaIterator/Empresa3.java
+ TareaIterator.Empresa3
+TareaIterator/IteratorConcreteEmpresa4.java
+ TareaIterator.IteratorConcreteEmpresa4
+TareaIterator/Empresa1.java
+ TareaIterator.Empresa1
+TareaIterator/Empresa2.java
+ TareaIterator.Empresa2
