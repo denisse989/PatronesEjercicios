@@ -1,160 +1,208 @@
-TareaFactory/IPasaje.java
- TareaFactory.IPasaje
 TareasSingletonEjercicio/EmpresaDeCambio.java
  TareasSingletonEjercicio.EmpresaDeCambio
+TareaInterpreter/Terminal5.java
+ TareaInterpreter.Terminal5
+TareaBuilder/PizzaHawaiana.java
+ TareaBuilder.PizzaHawaiana
+TareaInterpreter2/TerminalPara.java
+ TareaInterpreter2.TerminalPara
 TareaAbstractFactory/Crema.java
  TareaAbstractFactory.Crema
+TareaInterpreter/AbstractNumero.java
+ TareaInterpreter.AbstractNumero
 TareaFactory/PasajeSolidario.java
  TareaFactory.PasajeSolidario
-TareaAbstractFactory/Fruta.java
- TareaAbstractFactory.Fruta
-TareaPrototype/Caracteristicas.java
- TareaPrototype.Caracteristicas
-TareaAbstractFactory/IHelado.java
- TareaAbstractFactory.IHelado
+EjerciciosClase/Dueno.java
+ EjerciciosClase.Dueno
+TareaInterpreter2/ContextGherkins.java
+ TareaInterpreter2.ContextGherkins
 TareaFactory/PasajeEstandar.java
  TareaFactory.PasajeEstandar
-TareaFactory/Destino.java
- TareaFactory.Destino
-TareaFactory/CreatorPasaje.java
- TareaFactory.CreatorPasaje
-TareaPrototype/Accesorios.java
- TareaPrototype.Accesorios
-TareaFactory/Pasajero.java
- TareaFactory.Pasajero
+TareaInterpreter/Terminal6.java
+ TareaInterpreter.Terminal6
+TareaInterpreter2/Abstract.java
+ TareaInterpreter2.Abstract
 TareaFactory/Cliente.java
  TareaFactory.Cliente
 TareasSingletonEjercicio/Cliente.java
  TareasSingletonEjercicio.Cliente
-TareaFactory/Avion.java
- TareaFactory.Avion
 TareasSingletonEjercicio/Banco.java
  TareasSingletonEjercicio.Banco
-TareaPrototype/Cliente.java
- TareaPrototype.Cliente
-TareasSingletonEjercicio/CasaDeCambio.java
- TareasSingletonEjercicio.CasaDeCambio
-TareaFactory/CreatorPasajeSolidario.java
- TareaFactory.CreatorPasajeSolidario
-TareaAbstractFactory/Base.java
- TareaAbstractFactory.Base
-TareaFactory/PasajeInfantil.java
- TareaFactory.PasajeInfantil
-TareaFactory/CreatorPasajeInfantil.java
- TareaFactory.CreatorPasajeInfantil
-TareaFactory/CreatorPasajeEstandar.java
- TareaFactory.CreatorPasajeEstandar
-TareaPrototype/ICaracteristicas.java
- TareaPrototype.ICaracteristicas
-TareasSingletonEjercicio/LibreCambista.java
- TareasSingletonEjercicio.LibreCambista
+TareaIterator/IteratorConcreteEmpresa4.java
+ TareaIterator.IteratorConcreteEmpresa4
+TareaAbstractFactory/HeladoMixto.java
+ TareaAbstractFactory.HeladoMixto
+TareaInterpreter2/NoTerminalGherkins.java
+ TareaInterpreter2.NoTerminalGherkins
+TareaInterpreter/NonTerminal.java
+ TareaInterpreter.NonTerminal
+TareaInterpreter/Terminal1.java
+ TareaInterpreter.Terminal1
 TareaFactory/Origen.java
  TareaFactory.Origen
+TareaFactory/CreatorPasajeInfantil.java
+ TareaFactory.CreatorPasajeInfantil
+TareaIterator/IteratorConcreteEmpresa3.java
+ TareaIterator.IteratorConcreteEmpresa3
+TareaIterator/Empresa4.java
+ TareaIterator.Empresa4
+TareaFactory/CreatorPasajeEstandar.java
+ TareaFactory.CreatorPasajeEstandar
+TareaIterator/Iterator.java
+ TareaIterator.Iterator
+TareaBuilder/Dueno.java
+ TareaBuilder.Dueno
+TareaIterator/IteratorConcreteEmpresa2.java
+ TareaIterator.IteratorConcreteEmpresa2
+TareaIterator/Empresa1.java
+ TareaIterator.Empresa1
+EjerciciosClase/Bife.java
+ EjerciciosClase.Bife
+TareaInterpreter2/TerminalUsuario.java
+ TareaInterpreter2.TerminalUsuario
+TareaPrototype/ICaracteristicas.java
+ TareaPrototype.ICaracteristicas
+TareaInterpreter/ContextNumeroEntero.java
+ TareaInterpreter.ContextNumeroEntero
+TareaBuilder/PizzaClasica.java
+ TareaBuilder.PizzaClasica
+TareaIterator/IList.java
+ TareaIterator.IList
 TareaPrototype/SIM.java
  TareaPrototype.SIM
+TareaFactory/CreatorPasajeSolidario.java
+ TareaFactory.CreatorPasajeSolidario
+TareaInterpreter/Cliente.java
+ TareaInterpreter.Cliente
+TareaInterpreter/Terminal7.java
+ TareaInterpreter.Terminal7
+TareaInterpreter/Terminal4.java
+ TareaInterpreter.Terminal4
+TareaPrototype/Caracteristicas.java
+ TareaPrototype.Caracteristicas
+TareaInterpreter2/Cliente.java
+ TareaInterpreter2.Cliente
+EjerciciosClase/Lomito.java
+ EjerciciosClase.Lomito
+TareaBuilder/BuilderPizza.java
+ TareaBuilder.BuilderPizza
+TareaFactory/CreatorPasaje.java
+ TareaFactory.CreatorPasaje
+TareaFactory/IPasaje.java
+ TareaFactory.IPasaje
+TareaAbstractFactory/HeladoAgua.java
+ TareaAbstractFactory.HeladoAgua
+EjerciciosClase/Parrillas.java
+ EjerciciosClase.Parrillas
+TareaIterator/Empresa3.java
+ TareaIterator.Empresa3
+TareaBuilder/Pizza.java
+ TareaBuilder.Pizza
+EjerciciosRestantes/a.java
+ EjerciciosRestantes.a
+TareaAbstractFactory/Fruta.java
+ TareaAbstractFactory.Fruta
+TareaAbstractFactory/HeladoCrema.java
+ TareaAbstractFactory.HeladoCrema
+TareaBuilder/PizzaCarnivora.java
+ TareaBuilder.PizzaCarnivora
+TareaInterpreter/Terminal8.java
+ TareaInterpreter.Terminal8
+EjerciciosClase/BuilderParrilla.java
+ EjerciciosClase.BuilderParrilla
+TareaInterpreter/Terminal3.java
+ TareaInterpreter.Terminal3
+TareaIterator/Client.java
+ TareaIterator.Client
+EjerciciosClase/Tira.java
+ EjerciciosClase.Tira
+TareaAbstractFactory/IHelado.java
+ TareaAbstractFactory.IHelado
+TareaFactory/Destino.java
+ TareaFactory.Destino
 TareaAbstractFactory/Cliente.java
  TareaAbstractFactory.Cliente
 TareaAbstractFactory/FactoryHelado.java
  TareaAbstractFactory.FactoryHelado
  TareaAbstractFactory.FactoryHelado$1
  TareaAbstractFactory.FactoryHelado$typeHelado
-TareaAbstractFactory/HeladoAgua.java
- TareaAbstractFactory.HeladoAgua
-TareaAbstractFactory/HeladoCrema.java
- TareaAbstractFactory.HeladoCrema
-TareaAbstractFactory/HeladoMixto.java
- TareaAbstractFactory.HeladoMixto
-TareaBuilder/PizzaClasica.java
- TareaBuilder.PizzaClasica
-TareaBuilder/PizzaHawaiana.java
- TareaBuilder.PizzaHawaiana
-TareaBuilder/PizzaCarnivora.java
- TareaBuilder.PizzaCarnivora
-TareaBuilder/Pizza.java
- TareaBuilder.Pizza
-TareaBuilder/Dueno.java
- TareaBuilder.Dueno
-TareaBuilder/BuilderPizza.java
- TareaBuilder.BuilderPizza
-TareaBuilder/Cliente.java
- TareaBuilder.Cliente
-TareaInterpreter/AbstractNumero.java
- TareaInterpreter.AbstractNumero
-TareaInterpreter/ContextNumeroEntero.java
- TareaInterpreter.ContextNumeroEntero
-TareaInterpreter/Cliente.java
- TareaInterpreter.Cliente
-TareaInterpreter/Terminal3.java
- TareaInterpreter.Terminal3
-TareaInterpreter/Terminal6.java
- TareaInterpreter.Terminal6
-TareaInterpreter/Terminal8.java
- TareaInterpreter.Terminal8
-TareaInterpreter/Terminal10.java
- TareaInterpreter.Terminal10
-TareaInterpreter/Terminal4.java
- TareaInterpreter.Terminal4
-TareaInterpreter/Terminal5.java
- TareaInterpreter.Terminal5
+TareaFactory/Pasajero.java
+ TareaFactory.Pasajero
 TareaInterpreter/Terminal9.java
  TareaInterpreter.Terminal9
-TareaInterpreter/Terminal7.java
- TareaInterpreter.Terminal7
-TareaInterpreter/NonTerminal.java
- TareaInterpreter.NonTerminal
-TareaInterpreter/Terminal1.java
- TareaInterpreter.Terminal1
-TareaInterpreter/Terminal2.java
- TareaInterpreter.Terminal2
-TareaInterpreter2/TerminalQuiero.java
- TareaInterpreter2.TerminalQuiero
-TareaInterpreter2/TerminalComo.java
- TareaInterpreter2.TerminalComo
-TareaInterpreter2/TerminalUsuario.java
- TareaInterpreter2.TerminalUsuario
-TareaInterpreter2/TerminalPara.java
- TareaInterpreter2.TerminalPara
-TareaInterpreter2/ContextGherkins.java
- TareaInterpreter2.ContextGherkins
-TareaInterpreter2/Cliente.java
- TareaInterpreter2.Cliente
-TareaInterpreter2/NoTerminalGherkins.java
- TareaInterpreter2.NoTerminalGherkins
-TareaInterpreter2/Abstract.java
- TareaInterpreter2.Abstract
-TareaIterator/Client.java
- TareaIterator.Client
-TareaIterator/IteratorConcreteEmpresa3.java
- TareaIterator.IteratorConcreteEmpresa3
-TareaIterator/IteratorConcreteEmpresa2.java
- TareaIterator.IteratorConcreteEmpresa2
-TareaIterator/Empresa4.java
- TareaIterator.Empresa4
-TareaIterator/IList.java
- TareaIterator.IList
+TareaFactory/Avion.java
+ TareaFactory.Avion
+TareaBuilder/Cliente.java
+ TareaBuilder.Cliente
 TareaIterator/IteratorConcreteEmpresa1.java
  TareaIterator.IteratorConcreteEmpresa1
-TareaIterator/Iterator.java
- TareaIterator.Iterator
-TareaIterator/Empresa3.java
- TareaIterator.Empresa3
-TareaIterator/IteratorConcreteEmpresa4.java
- TareaIterator.IteratorConcreteEmpresa4
-TareaIterator/Empresa1.java
- TareaIterator.Empresa1
+TareaPrototype/Cliente.java
+ TareaPrototype.Cliente
+TareaPrototype/Accesorios.java
+ TareaPrototype.Accesorios
+TareaInterpreter/Terminal2.java
+ TareaInterpreter.Terminal2
+TareasSingletonEjercicio/CasaDeCambio.java
+ TareasSingletonEjercicio.CasaDeCambio
 TareaIterator/Empresa2.java
  TareaIterator.Empresa2
-EjerciciosClase/Tira.java
- EjerciciosClase.Tira
-EjerciciosClase/Parrillas.java
- EjerciciosClase.Parrillas
-EjerciciosClase/Dueno.java
- EjerciciosClase.Dueno
-EjerciciosClase/Lomito.java
- EjerciciosClase.Lomito
 EjerciciosClase/Cliente.java
  EjerciciosClase.Cliente
-EjerciciosClase/Bife.java
- EjerciciosClase.Bife
-EjerciciosClase/BuilderParrilla.java
- EjerciciosClase.BuilderParrilla
+TareaAbstractFactory/Base.java
+ TareaAbstractFactory.Base
+TareaFactory/PasajeInfantil.java
+ TareaFactory.PasajeInfantil
+TareaInterpreter2/TerminalQuiero.java
+ TareaInterpreter2.TerminalQuiero
+TareasSingletonEjercicio/LibreCambista.java
+ TareasSingletonEjercicio.LibreCambista
+TareaInterpreter/Terminal10.java
+ TareaInterpreter.Terminal10
+TareaInterpreter2/TerminalComo.java
+ TareaInterpreter2.TerminalComo
+AbstractFactory/InscripcionIngles.java
+ AbstractFactory.InscripcionIngles
+EjerciciosRestantes/FactoryMethod/KitEscolar.java
+ EjerciciosRestantes.FactoryMethod.KitEscolar
+AbstractFactory/InscripcionHistoria.java
+ AbstractFactory.InscripcionHistoria
+EjerciciosRestantes/FactoryMethod/Deportivo.java
+ EjerciciosRestantes.FactoryMethod.Deportivo
+AbstractFactory/IInscripcion.java
+ AbstractFactory.IInscripcion
+AbstractFactory/FactoryInscripcion.java
+ AbstractFactory.FactoryInscripcion
+ AbstractFactory.FactoryInscripcion$1
+ AbstractFactory.FactoryInscripcion$typeInscripcion
+EjerciciosRestantes/FactoryMethod/Mochila.java
+ EjerciciosRestantes.FactoryMethod.Mochila
+EjerciciosRestantes/FactoryMethod/Computadora.java
+ EjerciciosRestantes.FactoryMethod.Computadora
+EjerciciosRestantes/FactoryMethod/CreatorKit.java
+ EjerciciosRestantes.FactoryMethod.CreatorKit
+EjerciciosRestantes/Prototype/Cliente.java
+ EjerciciosRestantes.Prototype.Cliente
+EjerciciosRestantes/Prototype/Contrato.java
+ EjerciciosRestantes.Prototype.Contrato
+EjerciciosRestantes/FactoryMethod/KitColegial.java
+ EjerciciosRestantes.FactoryMethod.KitColegial
+EjerciciosRestantes/FactoryMethod/CreatorKitEscolar.java
+ EjerciciosRestantes.FactoryMethod.CreatorKitEscolar
+AbstractFactory/Cliente.java
+ AbstractFactory.Cliente
+EjerciciosRestantes/FactoryMethod/Cliente.java
+ EjerciciosRestantes.FactoryMethod.Cliente
+EjerciciosRestantes/FactoryMethod/Cuadernos.java
+ EjerciciosRestantes.FactoryMethod.Cuadernos
+EjerciciosRestantes/FactoryMethod/IKit.java
+ EjerciciosRestantes.FactoryMethod.IKit
+EjerciciosRestantes/FactoryMethod/Libros.java
+ EjerciciosRestantes.FactoryMethod.Libros
+EjerciciosRestantes/FactoryMethod/CreatorKitColegial.java
+ EjerciciosRestantes.FactoryMethod.CreatorKitColegial
+AbstractFactory/InscripcionLenguaje.java
+ AbstractFactory.InscripcionLenguaje
+EjerciciosRestantes/Prototype/IContrato.java
+ EjerciciosRestantes.Prototype.IContrato
+AbstractFactory/InscripcionMatematicas.java
+ AbstractFactory.InscripcionMatematicas
