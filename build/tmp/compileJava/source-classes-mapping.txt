@@ -246,8 +246,8 @@ TareaMemento/Cliente.java
  TareaMemento.Cliente
 TareaMemento/Backup.java
  TareaMemento.Backup
-ChainOfResponsability/a.java
- ChainOfResponsability.a
+ChainOfResponsability/Ejercicio2/Persona.java
+ ChainOfResponsability.Ejercicio2.Persona
 ChainOfResponsability/Ejercicio1/HandlerManager.java
  ChainOfResponsability.Ejercicio1.HandlerManager
 ChainOfResponsability/Ejercicio1/DevOps.java
@@ -278,5 +278,17 @@ ChainOfResponsability/Ejercicio2/Client.java
  ChainOfResponsability.Ejercicio2.Client
 ChainOfResponsability/Ejercicio2/HandlerManager.java
  ChainOfResponsability.Ejercicio2.HandlerManager
-ChainOfResponsability/Ejercicio2/Persona.java
- ChainOfResponsability.Ejercicio2.Persona
+ChainOfResponsability/Ejercicio3/HandlerManager.java
+ ChainOfResponsability.Ejercicio3.HandlerManager
+ChainOfResponsability/Ejercicio3/IAlgoritmo.java
+ ChainOfResponsability.Ejercicio3.IAlgoritmo
+ChainOfResponsability/Ejercicio3/Algoritmo1.java
+ ChainOfResponsability.Ejercicio3.Algoritmo1
+ChainOfResponsability/Ejercicio3/Algoritmo3.java
+ ChainOfResponsability.Ejercicio3.Algoritmo3
+ChainOfResponsability/Ejercicio3/Persona.java
+ ChainOfResponsability.Ejercicio3.Persona
+ChainOfResponsability/Ejercicio3/Cliente.java
+ ChainOfResponsability.Ejercicio3.Cliente
+ChainOfResponsability/Ejercicio3/Algoritmo2.java
+ ChainOfResponsability.Ejercicio3.Algoritmo2
