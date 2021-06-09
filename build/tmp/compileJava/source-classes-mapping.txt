@@ -264,8 +264,8 @@ ChainOfResponsability/Ejercicio1/IEncargado.java
  ChainOfResponsability.Ejercicio1.IEncargado
 ChainOfResponsability/Ejercicio1/Client.java
  ChainOfResponsability.Ejercicio1.Client
-ChainOfResponsability/Ejercicio2/AyudaAlCliente.java
- ChainOfResponsability.Ejercicio2.AyudaAlCliente
+ChainOfResponsability/Ejercicio3/Algoritmo2.java
+ ChainOfResponsability.Ejercicio3.Algoritmo2
 ChainOfResponsability/Ejercicio2/Notario.java
  ChainOfResponsability.Ejercicio2.Notario
 ChainOfResponsability/Ejercicio2/Cajero.java
@@ -276,19 +276,33 @@ ChainOfResponsability/Ejercicio2/IResponsable.java
  ChainOfResponsability.Ejercicio2.IResponsable
 ChainOfResponsability/Ejercicio2/Client.java
  ChainOfResponsability.Ejercicio2.Client
-ChainOfResponsability/Ejercicio2/HandlerManager.java
- ChainOfResponsability.Ejercicio2.HandlerManager
-ChainOfResponsability/Ejercicio3/HandlerManager.java
- ChainOfResponsability.Ejercicio3.HandlerManager
-ChainOfResponsability/Ejercicio3/IAlgoritmo.java
- ChainOfResponsability.Ejercicio3.IAlgoritmo
-ChainOfResponsability/Ejercicio3/Algoritmo1.java
- ChainOfResponsability.Ejercicio3.Algoritmo1
-ChainOfResponsability/Ejercicio3/Algoritmo3.java
- ChainOfResponsability.Ejercicio3.Algoritmo3
 ChainOfResponsability/Ejercicio3/Persona.java
  ChainOfResponsability.Ejercicio3.Persona
 ChainOfResponsability/Ejercicio3/Cliente.java
  ChainOfResponsability.Ejercicio3.Cliente
-ChainOfResponsability/Ejercicio3/Algoritmo2.java
- ChainOfResponsability.Ejercicio3.Algoritmo2
+ChainOfResponsability/Ejercicio3/IAlgoritmo.java
+ ChainOfResponsability.Ejercicio3.IAlgoritmo
+ChainOfResponsability/Ejercicio3/Algoritmo1.java
+ ChainOfResponsability.Ejercicio3.Algoritmo1
+ChainOfResponsability/Ejercicio2/AyudaAlCliente.java
+ ChainOfResponsability.Ejercicio2.AyudaAlCliente
+ChainOfResponsability/Ejercicio3/HandlerManager.java
+ ChainOfResponsability.Ejercicio3.HandlerManager
+ChainOfResponsability/Ejercicio2/HandlerManager.java
+ ChainOfResponsability.Ejercicio2.HandlerManager
+ChainOfResponsability/Ejercicio3/Algoritmo3.java
+ ChainOfResponsability.Ejercicio3.Algoritmo3
+TareaCommand/IAcciones.java
+ TareaCommand.IAcciones
+TareaCommand/Invoker.java
+ TareaCommand.Invoker
+TareaCommand/Disparar.java
+ TareaCommand.Disparar
+TareaCommand/Atacar.java
+ TareaCommand.Atacar
+TareaCommand/ModoDefensa.java
+ TareaCommand.ModoDefensa
+TareaCommand/Juego.java
+ TareaCommand.Juego
+TareaCommand/Cliente.java
+ TareaCommand.Cliente

@@ -29,7 +29,7 @@ public class Algoritmo3 implements IAlgoritmo{
             System.out.println("**************");
 
         }else {
-            this.next.realizarAlgoritmo(persona);
+            System.out.println("ERROR");
         }
 
     }

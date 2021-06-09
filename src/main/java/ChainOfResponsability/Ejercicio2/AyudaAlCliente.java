@@ -17,7 +17,7 @@ public class AyudaAlCliente implements IResponsable {
 
     @Override
     public void criteriaHandler(Persona persona) {
-        if (!persona.getFicha()){
+        if (!persona.getFicha()|| (!persona.getCertificadoDeNacimiento()&!persona.getPagoAlBanco())){
             System.out.println("************ ");
             System.out.println("Ayuda al cliente:");
             System.out.println("Los requisitos son:");
@@ -25,8 +25,6 @@ public class AyudaAlCliente implements IResponsable {
             System.out.println("* PAGO AL BANCO ");
             System.out.println("* FICHA ");
             System.out.println(" ");
-        }else {
-            this.next.criteriaHandler(persona);
         }
 
     }
