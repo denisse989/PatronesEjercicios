@@ -306,3 +306,15 @@ TareaCommand/Juego.java
  TareaCommand.Juego
 TareaCommand/Cliente.java
  TareaCommand.Cliente
+EjercicioState/Computadora.java
+ EjercicioState.Computadora
+EjercicioState/Reiniciar.java
+ EjercicioState.Reiniciar
+EjercicioState/Apagado.java
+ EjercicioState.Apagado
+EjercicioState/IStateComputadora.java
+ EjercicioState.IStateComputadora
+EjercicioState/Prendido.java
+ EjercicioState.Prendido
+EjercicioState/Cliente.java
+ EjercicioState.Cliente
