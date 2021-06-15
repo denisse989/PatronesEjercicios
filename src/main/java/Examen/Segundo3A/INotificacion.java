@@ -1,0 +1,8 @@
+package Examen.Segundo3A;
+
+public interface INotificacion {
+
+    void attach(IUsuario observer);
+    void deattach(IUsuario observer);
+    void notifyObserver(Notificacion notificacion);
+}
