@@ -38,6 +38,7 @@ public class Cliente {
 
         originator.restoreFromMemento(careTaker.getVersion(0));
 
+
         originator.deattach(desarrolladores1);
         originator.deattach(desarrolladores2);
         originator.deattach(desarrolladores3);
@@ -46,11 +47,13 @@ public class Cliente {
         Desarrolladores desarrolladores5 = new Desarrolladores("Juan5");
         Desarrolladores desarrolladores6 = new Desarrolladores("Juan6");
 
+
         originator.attach(desarrolladores4);
         originator.attach(desarrolladores5);
         originator.attach(desarrolladores6);
-
         originator.restoreFromMemento(careTaker.getVersion(4));
+
+
 
     }
 }

@@ -2,6 +2,8 @@ package TareaMediator;
 
 public abstract class Colleague {
     protected ICanalDeComunicacion canalDeComunicacion;
+    protected int ci;
+
 
     public Colleague(ICanalDeComunicacion mediator){
         this.canalDeComunicacion =mediator;

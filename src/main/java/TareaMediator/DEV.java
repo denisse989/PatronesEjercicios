@@ -2,13 +2,21 @@ package TareaMediator;
 
 public class DEV extends Colleague{
 
-    private String ci;
     private String name;
     private String lenguaje;
 
     public DEV(ICanalDeComunicacion mediator) {
         super(mediator);
     }
+
+    public DEV(ICanalDeComunicacion mediator, String name, int ci, String lenguaje) {
+        super(mediator);
+        this.name = name;
+        this.ci = ci;
+        this.lenguaje = lenguaje;
+    }
+
+
 
     @Override
     public void send(String message) {
@@ -20,13 +28,6 @@ public class DEV extends Colleague{
         System.out.println("INFO - Message Received "+"DEV "+","+name+", "+lenguaje+" > "+message);
     }
 
-    public String getCi() {
-        return ci;
-    }
-
-    public void setCi(String ci) {
-        this.ci = ci;
-    }
 
     public String getName() {
         return name;
