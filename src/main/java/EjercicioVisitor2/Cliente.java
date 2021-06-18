@@ -1,6 +1,7 @@
 package EjercicioVisitor2;
 
 public class Cliente {
+
     public static void main(String []sss){
         Bolivia bolivia=new Bolivia();
         bolivia.setMonedaLocal(true);
