@@ -1,7 +1,7 @@
 package TareaMediator;
 
 public class Cliente {
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         Skipe skype = new Skipe();
 
         DEV dev1 = new DEV(skype, "Juan", 10001, "Java");
@@ -31,5 +31,5 @@ public class Cliente {
         dev1.send("Prueba de dev 1");
         qa2.send("Prueba de qa 2");
         sm3.send("Prueba de sm 3");
-    }
+    }*/
 }

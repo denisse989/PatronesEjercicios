@@ -1,450 +1,562 @@
-EjerciciosRestantes/FactoryMethod/KitEscolar.java
- EjerciciosRestantes.FactoryMethod.KitEscolar
+EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/Memento.java
+ EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.Memento
 TareasSingletonEjercicio/EmpresaDeCambio.java
  TareasSingletonEjercicio.EmpresaDeCambio
-TareaInterpreter/Terminal5.java
- TareaInterpreter.Terminal5
-TareaBuilder/PizzaHawaiana.java
- TareaBuilder.PizzaHawaiana
-TareaInterpreter2/Abstract.java
- TareaInterpreter2.Abstract
+Examen/Segundo3A/IUsuario.java
+ Examen.Segundo3A.IUsuario
+TareaMemento/Originator.java
+ TareaMemento.Originator
 TareaFactory/PasajeSolidario.java
  TareaFactory.PasajeSolidario
+Examen/Ejercicio3Observer/Pagina.java
+ Examen.Ejercicio3Observer.Pagina
 EjerciciosRestantes/AbstractFactory/IInscripcion.java
  EjerciciosRestantes.AbstractFactory.IInscripcion
-EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/ISuscripcion.java
- EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.ISuscripcion
-TareaFactory/PasajeEstandar.java
- TareaFactory.PasajeEstandar
+ChainOfResponsability/Ejercicio3/HandlerManager.java
+ ChainOfResponsability.Ejercicio3.HandlerManager
 TareaInterpreter/Terminal6.java
  TareaInterpreter.Terminal6
+Examen/Ejercicio2Chain/Estudiante.java
+ Examen.Ejercicio2Chain.Estudiante
+TareaCommand/Cliente.java
+ TareaCommand.Cliente
 EjerciciosRestantes/FactoryMethod/KitColegial.java
  EjerciciosRestantes.FactoryMethod.KitColegial
-TareasSingletonEjercicio/Cliente.java
- TareasSingletonEjercicio.Cliente
+ChainOfResponsability/Ejercicio3/IAlgoritmo.java
+ ChainOfResponsability.Ejercicio3.IAlgoritmo
 EjerciciosRestantes/FactoryMethod/Libros.java
  EjerciciosRestantes.FactoryMethod.Libros
 TareaIterator/IteratorConcreteEmpresa4.java
  TareaIterator.IteratorConcreteEmpresa4
 TareaAbstractFactory/HeladoMixto.java
  TareaAbstractFactory.HeladoMixto
-TareaInterpreter/NonTerminal.java
- TareaInterpreter.NonTerminal
+ChainOfResponsability/Ejercicio2/Notario.java
+ ChainOfResponsability.Ejercicio2.Notario
 TareaFactory/CreatorPasajeInfantil.java
  TareaFactory.CreatorPasajeInfantil
-TareaIterator/IteratorConcreteEmpresa3.java
- TareaIterator.IteratorConcreteEmpresa3
 TareaIterator/Empresa4.java
  TareaIterator.Empresa4
-TareaFactory/CreatorPasajeEstandar.java
- TareaFactory.CreatorPasajeEstandar
-TareaIterator/Iterator.java
- TareaIterator.Iterator
-EjerciciosRestantes/FactoryMethod/Mochila.java
- EjerciciosRestantes.FactoryMethod.Mochila
+Examen/Ejercicio3Observer/IPagina.java
+ Examen.Ejercicio3Observer.IPagina
+EjerciciosPracticaSegundoParcial/Ejercicio1Memento/Memento.java
+ EjerciciosPracticaSegundoParcial.Ejercicio1Memento.Memento
+ChainOfResponsability/Ejercicio3/Algoritmo2.java
+ ChainOfResponsability.Ejercicio3.Algoritmo2
 EjerciciosClase/Bife.java
  EjerciciosClase.Bife
+EjercicioVisitor2/Brasil.java
+ EjercicioVisitor2.Brasil
 TareaPrototype/ICaracteristicas.java
  TareaPrototype.ICaracteristicas
 TareaInterpreter/ContextNumeroEntero.java
  TareaInterpreter.ContextNumeroEntero
 TareaBuilder/PizzaClasica.java
  TareaBuilder.PizzaClasica
+EjercicioVisitor/Word.java
+ EjercicioVisitor.Word
+TareaStrategy/Invierno.java
+ TareaStrategy.Invierno
+ChainOfResponsability/Ejercicio1/QA.java
+ ChainOfResponsability.Ejercicio1.QA
+Examen/Ejercicio2Chain/IChat.java
+ Examen.Ejercicio2Chain.IChat
+TareaInterpreter/Terminal4.java
+ TareaInterpreter.Terminal4
+EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/Codigo.java
+ EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.Codigo
+EjerciciosClase/Lomito.java
+ EjerciciosClase.Lomito
+Examen/Segundo3A/NotificacionFacebook.java
+ Examen.Segundo3A.NotificacionFacebook
+ChainOfResponsability/Ejercicio1/HandlerManager.java
+ ChainOfResponsability.Ejercicio1.HandlerManager
+EjercicioState/Computadora.java
+ EjercicioState.Computadora
+TareaBuilder/Pizza.java
+ TareaBuilder.Pizza
+Examen/ejercicio4Strategy2/ListaUsuarios.java
+ Examen.ejercicio4Strategy2.ListaUsuarios
+TareaBuilder/PizzaCarnivora.java
+ TareaBuilder.PizzaCarnivora
+TareaInterpreter/Terminal8.java
+ TareaInterpreter.Terminal8
+EjercicioVisitor/Cliente.java
+ EjercicioVisitor.Cliente
+EjercicioVisitor2/Italia.java
+ EjercicioVisitor2.Italia
+EjerciciosClase/Tira.java
+ EjerciciosClase.Tira
+TareaFactory/Avion.java
+ TareaFactory.Avion
+Examen/SegundoParcial1A/Cambios.java
+ Examen.SegundoParcial1A.Cambios
+TareaInterpreter/Terminal2.java
+ TareaInterpreter.Terminal2
+TareasSingletonEjercicio/CasaDeCambio.java
+ TareasSingletonEjercicio.CasaDeCambio
+EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/Cliente.java
+ EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.Cliente
+EjerciciosRestantes/Prototype/IContrato.java
+ EjerciciosRestantes.Prototype.IContrato
+EjercicioState/Apagado.java
+ EjercicioState.Apagado
+Examen/Ejercicio5State/Apagado.java
+ Examen.Ejercicio5State.Apagado
+ExamenA/ejercicio3A/Refrigerador.java
+ ExamenA.ejercicio3A.Refrigerador
+TareaInterpreter2/TerminalComo.java
+ TareaInterpreter2.TerminalComo
+EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/TiendaCelulares.java
+ EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.TiendaCelulares
+Examen/Ejercicio5State/Computadora.java
+ Examen.Ejercicio5State.Computadora
+ChainOfResponsability/Ejercicio1/Support.java
+ ChainOfResponsability.Ejercicio1.Support
+Examen/Ejercicio4Strategy/OrdenCI.java
+ Examen.Ejercicio4Strategy.OrdenCI
+EjerciciosPracticaSegundoParcial/Ejercicio1Memento/CareTaker.java
+ EjerciciosPracticaSegundoParcial.Ejercicio1Memento.CareTaker
+ExamenA/ejercicio3A/FactoryArtefacto.java
+ ExamenA.ejercicio3A.FactoryArtefacto
+ ExamenA.ejercicio3A.FactoryArtefacto$1
+ ExamenA.ejercicio3A.FactoryArtefacto$Artefactos
+TareaInterpreter2/TerminalUsuario.java
+ TareaInterpreter2.TerminalUsuario
+ExamenA/ejercicio3A/Television.java
+ ExamenA.ejercicio3A.Television
+ChainOfResponsability/Ejercicio1/IEncargado.java
+ ChainOfResponsability.Ejercicio1.IEncargado
+ChainOfResponsability/Ejercicio3/Cliente.java
+ ChainOfResponsability.Ejercicio3.Cliente
+TareaInterpreter2/ContextGherkins.java
+ TareaInterpreter2.ContextGherkins
+TareaInterpreter2/NoTerminalGherkins.java
+ TareaInterpreter2.NoTerminalGherkins
+EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/Cliente.java
+ EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.Cliente
+TareaAbstractFactory/Crema.java
+ TareaAbstractFactory.Crema
+TareaIterator/Empresa2.java
+ TareaIterator.Empresa2
+ChainOfResponsability/Ejercicio2/AyudaAlCliente.java
+ ChainOfResponsability.Ejercicio2.AyudaAlCliente
+TareaMediator/Cliente.java
+ TareaMediator.Cliente
+EjerciciosRestantes/FactoryMethod/Deportivo.java
+ EjerciciosRestantes.FactoryMethod.Deportivo
+Examen/ejercicio4Strategy2/Cliente.java
+ Examen.ejercicio4Strategy2.Cliente
+TareaFactory/Cliente.java
+ TareaFactory.Cliente
+TareaMemento/Cliente.java
+ TareaMemento.Cliente
+asffdhgjhj/Televisor.java
+ asffdhgjhj.Televisor
+TareasSingletonEjercicio/Banco.java
+ TareasSingletonEjercicio.Banco
+EjercicioVisitor2/Cliente.java
+ EjercicioVisitor2.Cliente
+Examen/ejercicio4Strategy2/OrdenPorFecha.java
+ Examen.ejercicio4Strategy2.OrdenPorFecha
+EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/Cliente.java
+ EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.Cliente
+Examen/SegundoParcial1A/Cliente.java
+ Examen.SegundoParcial1A.Cliente
+Examen/Ejercicio4Strategy/Cliente.java
+ Examen.Ejercicio4Strategy.Cliente
+EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/Whatsapp.java
+ EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.Whatsapp
+ChainOfResponsability/Ejercicio1/DevOps.java
+ ChainOfResponsability.Ejercicio1.DevOps
+EjercicioVisitor/IEditoresDeTexto.java
+ EjercicioVisitor.IEditoresDeTexto
+ExamenA/ejercicio3A/ArtefactoElectrico.java
+ ExamenA.ejercicio3A.ArtefactoElectrico
+TareaInterpreter/Terminal1.java
+ TareaInterpreter.Terminal1
+EjerciciosPracticaSegundoParcial/Ejercicio1Memento/Cliente.java
+ EjerciciosPracticaSegundoParcial.Ejercicio1Memento.Cliente
+TareaBuilder/Dueno.java
+ TareaBuilder.Dueno
+TareaCommand/Invoker.java
+ TareaCommand.Invoker
+Examen/Ejercicio5State/Cliente.java
+ Examen.Ejercicio5State.Cliente
+Examen/Ejercicio5State/IStateComputadora.java
+ Examen.Ejercicio5State.IStateComputadora
+TareaMemento/BaseDeDatos.java
+ TareaMemento.BaseDeDatos
+Examen/Ejercicio4Strategy/BaseDeDatos.java
+ Examen.Ejercicio4Strategy.BaseDeDatos
+TareaMediator/Colleague.java
+ TareaMediator.Colleague
+TareaStrategy/IEstacion.java
+ TareaStrategy.IEstacion
+EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/ICanalDeComunicacion.java
+ EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.ICanalDeComunicacion
+ChainOfResponsability/Ejercicio2/Cajero.java
+ ChainOfResponsability.Ejercicio2.Cajero
+EjercicioVisitor/Notepad.java
+ EjercicioVisitor.Notepad
+EjerciciosRestantes/FactoryMethod/CreatorKitEscolar.java
+ EjerciciosRestantes.FactoryMethod.CreatorKitEscolar
+TareaIterator/IList.java
+ TareaIterator.IList
+TareaInterpreter/Cliente.java
+ TareaInterpreter.Cliente
+TareaInterpreter2/Cliente.java
+ TareaInterpreter2.Cliente
+TareaStrategy/Ropa.java
+ TareaStrategy.Ropa
+TareaBuilder/BuilderPizza.java
+ TareaBuilder.BuilderPizza
+TareaFactory/CreatorPasaje.java
+ TareaFactory.CreatorPasaje
+EjercicioVisitor2/LibreCambista.java
+ EjercicioVisitor2.LibreCambista
+TareaAbstractFactory/HeladoAgua.java
+ TareaAbstractFactory.HeladoAgua
+EjercicioVisitor2/Bolivia.java
+ EjercicioVisitor2.Bolivia
+TareaMediator/Skipe.java
+ TareaMediator.Skipe
+Examen/SegundoParcial1B/Archivo.java
+ Examen.SegundoParcial1B.Archivo
+TareaIterator/Empresa3.java
+ TareaIterator.Empresa3
+Examen/Ejercicio5State/Prendido.java
+ Examen.Ejercicio5State.Prendido
+TareaAbstractFactory/HeladoCrema.java
+ TareaAbstractFactory.HeladoCrema
+Examen/SegundoParcial1B/EstadoArchivo.java
+ Examen.SegundoParcial1B.EstadoArchivo
+TareaMemento/Memento.java
+ TareaMemento.Memento
+TareaAbstractFactory/Cliente.java
+ TareaAbstractFactory.Cliente
+TareaFactory/Pasajero.java
+ TareaFactory.Pasajero
+EjerciciosRestantes/FactoryMethod/Cuadernos.java
+ EjerciciosRestantes.FactoryMethod.Cuadernos
+TareaPrototype/Cliente.java
+ TareaPrototype.Cliente
+Examen/Ejercicio3Observer/Registro.java
+ Examen.Ejercicio3Observer.Registro
+EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/Cabo.java
+ EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.Cabo
+TareaCommand/Disparar.java
+ TareaCommand.Disparar
+Examen/SegundoParcial1A/GuardarCambio.java
+ Examen.SegundoParcial1A.GuardarCambio
+TareaFactory/PasajeInfantil.java
+ TareaFactory.PasajeInfantil
+TareaInterpreter2/TerminalQuiero.java
+ TareaInterpreter2.TerminalQuiero
+TareaCommand/Atacar.java
+ TareaCommand.Atacar
+ChainOfResponsability/Ejercicio1/Developer.java
+ ChainOfResponsability.Ejercicio1.Developer
+Examen/Ejercicio3Observer/Persona.java
+ Examen.Ejercicio3Observer.Persona
+EjerciciosRestantes/FactoryMethod/IKit.java
+ EjerciciosRestantes.FactoryMethod.IKit
+ChainOfResponsability/Ejercicio1/Client.java
+ ChainOfResponsability.Ejercicio1.Client
+EjercicioVisitor/IGuardar.java
+ EjercicioVisitor.IGuardar
+TareaStrategy/Cliente.java
+ TareaStrategy.Cliente
+TareaPrototype/Accesorios.java
+ TareaPrototype.Accesorios
+ExamenA/ejercicio3A/Batidora.java
+ ExamenA.ejercicio3A.Batidora
+EjerciciosRestantes/FactoryMethod/KitEscolar.java
+ EjerciciosRestantes.FactoryMethod.KitEscolar
+Examen/ejercicio4Strategy2/OrdenPorNombre.java
+ Examen.ejercicio4Strategy2.OrdenPorNombre
+ChainOfResponsability/Ejercicio3/Algoritmo1.java
+ ChainOfResponsability.Ejercicio3.Algoritmo1
+EjercicioState/Reiniciar.java
+ EjercicioState.Reiniciar
+EjerciciosPracticaSegundoParcial/Ejercicio1Memento/Originator.java
+ EjerciciosPracticaSegundoParcial.Ejercicio1Memento.Originator
+TareaInterpreter/Terminal5.java
+ TareaInterpreter.Terminal5
+TareaBuilder/PizzaHawaiana.java
+ TareaBuilder.PizzaHawaiana
+ChainOfResponsability/Ejercicio2/Client.java
+ ChainOfResponsability.Ejercicio2.Client
+Examen/ejercicio4Strategy2/Usuario.java
+ Examen.ejercicio4Strategy2.Usuario
+Examen/Ejercicio2Chain/Cliente.java
+ Examen.Ejercicio2Chain.Cliente
+TareaMediator/QA.java
+ TareaMediator.QA
+TareaFactory/PasajeEstandar.java
+ TareaFactory.PasajeEstandar
+ChainOfResponsability/Ejercicio2/ResponsableCarnetizacion.java
+ ChainOfResponsability.Ejercicio2.ResponsableCarnetizacion
+TareasSingletonEjercicio/Cliente.java
+ TareasSingletonEjercicio.Cliente
+Examen/Segundo3A/UsuarioRegistrado.java
+ Examen.Segundo3A.UsuarioRegistrado
+Examen/Ejercicio5State/Reiniciar.java
+ Examen.Ejercicio5State.Reiniciar
+EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/IBusquedaModelo.java
+ EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.IBusquedaModelo
+Examen/Segundo3A/Cliente.java
+ Examen.Segundo3A.Cliente
+TareaInterpreter/NonTerminal.java
+ TareaInterpreter.NonTerminal
+Examen/SegundoParcial1B/Versionador.java
+ Examen.SegundoParcial1B.Versionador
+TareaIterator/IteratorConcreteEmpresa3.java
+ TareaIterator.IteratorConcreteEmpresa3
+EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/CadenaDeMando.java
+ EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.CadenaDeMando
+TareaFactory/CreatorPasajeEstandar.java
+ TareaFactory.CreatorPasajeEstandar
+TareaIterator/Iterator.java
+ TareaIterator.Iterator
+EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/IBusquedaPrecio.java
+ EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.IBusquedaPrecio
+EjerciciosRestantes/FactoryMethod/Mochila.java
+ EjerciciosRestantes.FactoryMethod.Mochila
+Examen/SegundoParcial1A/Documento.java
+ Examen.SegundoParcial1A.Documento
+Examen/Ejercicio2Chain/Docente.java
+ Examen.Ejercicio2Chain.Docente
+EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/Celular.java
+ EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.Celular
 EjerciciosRestantes/AbstractFactory/InscripcionLenguaje.java
  EjerciciosRestantes.AbstractFactory.InscripcionLenguaje
 TareaPrototype/SIM.java
  TareaPrototype.SIM
 TareaInterpreter/Terminal7.java
  TareaInterpreter.Terminal7
-TareaInterpreter/Terminal4.java
- TareaInterpreter.Terminal4
 TareaPrototype/Caracteristicas.java
  TareaPrototype.Caracteristicas
-EjerciciosClase/Lomito.java
- EjerciciosClase.Lomito
-TareaIterator/IteratorConcreteEmpresa2.java
- TareaIterator.IteratorConcreteEmpresa2
+Examen/ejercicio4Strategy2/OrdenPorCi.java
+ Examen.ejercicio4Strategy2.OrdenPorCi
+TareaMemento/Persona.java
+ TareaMemento.Persona
+EjercicioVisitor2/Argentina.java
+ EjercicioVisitor2.Argentina
 ExamenA/ejercicio3A/Radio.java
  ExamenA.ejercicio3A.Radio
-TareaBuilder/Pizza.java
- TareaBuilder.Pizza
+ChainOfResponsability/Ejercicio2/IResponsable.java
+ ChainOfResponsability.Ejercicio2.IResponsable
+Examen/ejercicio4Strategy2/IStrategy.java
+ Examen.ejercicio4Strategy2.IStrategy
+EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/BusquedaMuchosPrecio.java
+ EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.BusquedaMuchosPrecio
 ExamenA/ejercicio3A/Microondas.java
  ExamenA.ejercicio3A.Microondas
-TareaBuilder/PizzaCarnivora.java
- TareaBuilder.PizzaCarnivora
-TareaInterpreter/Terminal8.java
- TareaInterpreter.Terminal8
+EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/Cliente.java
+ EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.Cliente
+TareaStrategy/Verano.java
+ TareaStrategy.Verano
 EjerciciosClase/BuilderParrilla.java
  EjerciciosClase.BuilderParrilla
+Examen/SegundoParcial1B/Versiones.java
+ Examen.SegundoParcial1B.Versiones
 TareaIterator/Client.java
  TareaIterator.Client
-EjerciciosClase/Tira.java
- EjerciciosClase.Tira
 TareaAbstractFactory/IHelado.java
  TareaAbstractFactory.IHelado
 TareaAbstractFactory/FactoryHelado.java
  TareaAbstractFactory.FactoryHelado
  TareaAbstractFactory.FactoryHelado$1
  TareaAbstractFactory.FactoryHelado$typeHelado
-TareaFactory/Avion.java
- TareaFactory.Avion
 TareaIterator/IteratorConcreteEmpresa1.java
  TareaIterator.IteratorConcreteEmpresa1
-EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/ICanalDeComunicacion.java
- EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.ICanalDeComunicacion
-TareaInterpreter/Terminal2.java
- TareaInterpreter.Terminal2
-TareasSingletonEjercicio/CasaDeCambio.java
- TareasSingletonEjercicio.CasaDeCambio
-EjerciciosRestantes/Prototype/IContrato.java
- EjerciciosRestantes.Prototype.IContrato
-ExamenA/ejercicio3A/Refrigerador.java
- ExamenA.ejercicio3A.Refrigerador
-TareaInterpreter2/TerminalComo.java
- TareaInterpreter2.TerminalComo
-EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/Originator.java
- EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.Originator
+TareaMediator/ICanalDeComunicacion.java
+ TareaMediator.ICanalDeComunicacion
+EjercicioVisitor/Sublime.java
+ EjercicioVisitor.Sublime
+ChainOfResponsability/Ejercicio1/Finanzas.java
+ ChainOfResponsability.Ejercicio1.Finanzas
+Examen/Segundo3A/INotificacion.java
+ Examen.Segundo3A.INotificacion
+TareaMediator/SM.java
+ TareaMediator.SM
+Examen/Segundo3A/Notificacion.java
+ Examen.Segundo3A.Notificacion
+EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/IEjercito.java
+ EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.IEjercito
 TareasSingletonEjercicio/LibreCambista.java
  TareasSingletonEjercicio.LibreCambista
-ExamenA/ejercicio3A/FactoryArtefacto.java
- ExamenA.ejercicio3A.FactoryArtefacto
- ExamenA.ejercicio3A.FactoryArtefacto$1
- ExamenA.ejercicio3A.FactoryArtefacto$Artefactos
 TareaFactory/Origen.java
  TareaFactory.Origen
-TareaInterpreter2/TerminalUsuario.java
- TareaInterpreter2.TerminalUsuario
+EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/Usuario.java
+ EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.Usuario
 EjerciciosRestantes/FactoryMethod/Cliente.java
  EjerciciosRestantes.FactoryMethod.Cliente
-ExamenA/ejercicio3A/Television.java
- ExamenA.ejercicio3A.Television
-TareaInterpreter2/ContextGherkins.java
- TareaInterpreter2.ContextGherkins
-TareaInterpreter2/NoTerminalGherkins.java
- TareaInterpreter2.NoTerminalGherkins
+EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/CareTaker.java
+ EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.CareTaker
+Examen/Ejercicio3Observer/Imagen.java
+ Examen.Ejercicio3Observer.Imagen
+ChainOfResponsability/Ejercicio2/HandlerManager.java
+ ChainOfResponsability.Ejercicio2.HandlerManager
+ChainOfResponsability/Ejercicio3/Algoritmo3.java
+ ChainOfResponsability.Ejercicio3.Algoritmo3
+TareaCommand/Juego.java
+ TareaCommand.Juego
 EjerciciosClase/Cliente.java
  EjerciciosClase.Cliente
-TareaAbstractFactory/Crema.java
- TareaAbstractFactory.Crema
-TareaIterator/Empresa2.java
- TareaIterator.Empresa2
-EjerciciosRestantes/FactoryMethod/Deportivo.java
- EjerciciosRestantes.FactoryMethod.Deportivo
+TareaCommand/IAcciones.java
+ TareaCommand.IAcciones
+EjercicioVisitor/Guardar.java
+ EjercicioVisitor.Guardar
+EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/BusquedaPocosModelo.java
+ EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.BusquedaPocosModelo
+EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/BusquedaMuchosModelo.java
+ EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.BusquedaMuchosModelo
 TareaInterpreter2/TerminalPara.java
  TareaInterpreter2.TerminalPara
+asffdhgjhj/Cliente.java
+ asffdhgjhj.Cliente
 EjerciciosRestantes/AbstractFactory/FactoryInscripcion.java
  EjerciciosRestantes.AbstractFactory.FactoryInscripcion
  EjerciciosRestantes.AbstractFactory.FactoryInscripcion$1
  EjerciciosRestantes.AbstractFactory.FactoryInscripcion$typeInscripcion
+TareaCommand/ModoDefensa.java
+ TareaCommand.ModoDefensa
 TareaInterpreter/AbstractNumero.java
  TareaInterpreter.AbstractNumero
+ChainOfResponsability/Ejercicio2/Persona.java
+ ChainOfResponsability.Ejercicio2.Persona
 EjerciciosClase/Dueno.java
  EjerciciosClase.Dueno
+EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/Coronel.java
+ EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.Coronel
 EjerciciosRestantes/AbstractFactory/InscripcionIngles.java
  EjerciciosRestantes.AbstractFactory.InscripcionIngles
-TareaFactory/Cliente.java
- TareaFactory.Cliente
-EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/GrupoUsuarios.java
- EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.GrupoUsuarios
-ExamenA/ejercicio3A/Batidora.java
- ExamenA.ejercicio3A.Batidora
-TareasSingletonEjercicio/Banco.java
- TareasSingletonEjercicio.Banco
+TareaMediator/DEV.java
+ TareaMediator.DEV
+Examen/Ejercicio2Chain/ChatDeComunicacion.java
+ Examen.Ejercicio2Chain.ChatDeComunicacion
 EjerciciosRestantes/AbstractFactory/Cliente.java
  EjerciciosRestantes.AbstractFactory.Cliente
+EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/General.java
+ EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.General
 EjerciciosRestantes/AbstractFactory/InscripcionHistoria.java
  EjerciciosRestantes.AbstractFactory.InscripcionHistoria
-ExamenA/ejercicio3A/ArtefactoElectrico.java
- ExamenA.ejercicio3A.ArtefactoElectrico
-TareaInterpreter/Terminal1.java
- TareaInterpreter.Terminal1
-TareaBuilder/Dueno.java
- TareaBuilder.Dueno
+EjercicioVisitor2/IPais.java
+ EjercicioVisitor2.IPais
+TareaStrategy/Otono.java
+ TareaStrategy.Otono
+EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/GrupoUsuarios.java
+ EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.GrupoUsuarios
+EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/IVersion.java
+ EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.IVersion
 EjerciciosRestantes/Prototype/Cliente.java
  EjerciciosRestantes.Prototype.Cliente
 TareaIterator/Empresa1.java
  TareaIterator.Empresa1
-EjerciciosRestantes/FactoryMethod/IKit.java
- EjerciciosRestantes.FactoryMethod.IKit
-EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/Desarrolladores.java
- EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.Desarrolladores
-EjerciciosRestantes/FactoryMethod/CreatorKitEscolar.java
- EjerciciosRestantes.FactoryMethod.CreatorKitEscolar
-TareaIterator/IList.java
- TareaIterator.IList
+EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/UsuarioDeWhatsapp.java
+ EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.UsuarioDeWhatsapp
 TareaFactory/CreatorPasajeSolidario.java
  TareaFactory.CreatorPasajeSolidario
-TareaInterpreter/Cliente.java
- TareaInterpreter.Cliente
-TareaInterpreter2/Cliente.java
- TareaInterpreter2.Cliente
-TareaBuilder/BuilderPizza.java
- TareaBuilder.BuilderPizza
-TareaFactory/CreatorPasaje.java
- TareaFactory.CreatorPasaje
+asffdhgjhj/ITelevisor.java
+ asffdhgjhj.ITelevisor
+Examen/Ejercicio3Observer/Video.java
+ Examen.Ejercicio3Observer.Video
+EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/Originator.java
+ EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.Originator
 TareaFactory/IPasaje.java
  TareaFactory.IPasaje
-TareaAbstractFactory/HeladoAgua.java
- TareaAbstractFactory.HeladoAgua
 EjerciciosClase/Parrillas.java
  EjerciciosClase.Parrillas
-EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/Cliente.java
- EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.Cliente
-TareaIterator/Empresa3.java
- TareaIterator.Empresa3
+EjerciciosPracticaSegundoParcial/Ejercicio1Memento/Tesis.java
+ EjerciciosPracticaSegundoParcial.Ejercicio1Memento.Tesis
+EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/BusquedaPocosPrecio.java
+ EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.BusquedaPocosPrecio
+ChainOfResponsability/Ejercicio3/Persona.java
+ ChainOfResponsability.Ejercicio3.Persona
+EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/Desarrolladores.java
+ EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.Desarrolladores
 EjerciciosRestantes/FactoryMethod/Computadora.java
  EjerciciosRestantes.FactoryMethod.Computadora
 EjerciciosRestantes/FactoryMethod/CreatorKit.java
  EjerciciosRestantes.FactoryMethod.CreatorKit
 TareaAbstractFactory/Fruta.java
  TareaAbstractFactory.Fruta
-TareaAbstractFactory/HeladoCrema.java
- TareaAbstractFactory.HeladoCrema
+EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/Teniente.java
+ EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.Teniente
+EjercicioState/Cliente.java
+ EjercicioState.Cliente
 TareaInterpreter/Terminal3.java
  TareaInterpreter.Terminal3
-TareaPrototype/Accesorios.java
- TareaPrototype.Accesorios
 TareaFactory/Destino.java
  TareaFactory.Destino
-TareaAbstractFactory/Cliente.java
- TareaAbstractFactory.Cliente
-TareaFactory/Pasajero.java
- TareaFactory.Pasajero
+Examen/SegundoParcial1B/Cliente.java
+ Examen.SegundoParcial1B.Cliente
+EjercicioVisitor2/ILibreCambista.java
+ EjercicioVisitor2.ILibreCambista
 TareaInterpreter/Terminal9.java
  TareaInterpreter.Terminal9
-EjerciciosRestantes/FactoryMethod/Cuadernos.java
- EjerciciosRestantes.FactoryMethod.Cuadernos
 TareaBuilder/Cliente.java
  TareaBuilder.Cliente
-TareaPrototype/Cliente.java
- TareaPrototype.Cliente
+Examen/Ejercicio4Strategy/OrdenNacimientoOProfesion.java
+ Examen.Ejercicio4Strategy.OrdenNacimientoOProfesion
+EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/ISuscripcion.java
+ EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.ISuscripcion
 EjerciciosRestantes/FactoryMethod/CreatorKitColegial.java
  EjerciciosRestantes.FactoryMethod.CreatorKitColegial
+Examen/Ejercicio3Observer/IUsuario.java
+ Examen.Ejercicio3Observer.IUsuario
 TareaAbstractFactory/Base.java
  TareaAbstractFactory.Base
-TareaFactory/PasajeInfantil.java
- TareaFactory.PasajeInfantil
-TareaInterpreter2/TerminalQuiero.java
- TareaInterpreter2.TerminalQuiero
+Examen/Ejercicio4Strategy/OrdenNombre.java
+ Examen.Ejercicio4Strategy.OrdenNombre
+Examen/Ejercicio4Strategy/Usuarios.java
+ Examen.Ejercicio4Strategy.Usuarios
 TareaInterpreter/Terminal10.java
  TareaInterpreter.Terminal10
+EjercicioState/IStateComputadora.java
+ EjercicioState.IStateComputadora
 EjerciciosRestantes/Prototype/Contrato.java
  EjerciciosRestantes.Prototype.Contrato
 ExamenA/ejercicio3A/Cliente.java
  ExamenA.ejercicio3A.Cliente
-EjerciciosRestantes/AbstractFactory/InscripcionMatematicas.java
- EjerciciosRestantes.AbstractFactory.InscripcionMatematicas
-TareaMemento/Persona.java
- TareaMemento.Persona
-TareaMemento/Memento.java
- TareaMemento.Memento
-TareaMemento/BaseDeDatos.java
- TareaMemento.BaseDeDatos
-TareaMemento/Originator.java
- TareaMemento.Originator
-TareaMemento/Cliente.java
- TareaMemento.Cliente
 TareaMemento/Backup.java
  TareaMemento.Backup
-ChainOfResponsability/Ejercicio2/Persona.java
- ChainOfResponsability.Ejercicio2.Persona
-ChainOfResponsability/Ejercicio1/HandlerManager.java
- ChainOfResponsability.Ejercicio1.HandlerManager
-ChainOfResponsability/Ejercicio1/DevOps.java
- ChainOfResponsability.Ejercicio1.DevOps
-ChainOfResponsability/Ejercicio1/Finanzas.java
- ChainOfResponsability.Ejercicio1.Finanzas
-ChainOfResponsability/Ejercicio1/Developer.java
- ChainOfResponsability.Ejercicio1.Developer
-ChainOfResponsability/Ejercicio1/Support.java
- ChainOfResponsability.Ejercicio1.Support
-ChainOfResponsability/Ejercicio1/QA.java
- ChainOfResponsability.Ejercicio1.QA
-ChainOfResponsability/Ejercicio1/IEncargado.java
- ChainOfResponsability.Ejercicio1.IEncargado
-ChainOfResponsability/Ejercicio1/Client.java
- ChainOfResponsability.Ejercicio1.Client
-ChainOfResponsability/Ejercicio3/Algoritmo2.java
- ChainOfResponsability.Ejercicio3.Algoritmo2
-ChainOfResponsability/Ejercicio2/Notario.java
- ChainOfResponsability.Ejercicio2.Notario
-ChainOfResponsability/Ejercicio2/Cajero.java
- ChainOfResponsability.Ejercicio2.Cajero
-ChainOfResponsability/Ejercicio2/ResponsableCarnetizacion.java
- ChainOfResponsability.Ejercicio2.ResponsableCarnetizacion
-ChainOfResponsability/Ejercicio2/IResponsable.java
- ChainOfResponsability.Ejercicio2.IResponsable
-ChainOfResponsability/Ejercicio2/Client.java
- ChainOfResponsability.Ejercicio2.Client
-ChainOfResponsability/Ejercicio3/Persona.java
- ChainOfResponsability.Ejercicio3.Persona
-ChainOfResponsability/Ejercicio3/Cliente.java
- ChainOfResponsability.Ejercicio3.Cliente
-ChainOfResponsability/Ejercicio3/IAlgoritmo.java
- ChainOfResponsability.Ejercicio3.IAlgoritmo
-ChainOfResponsability/Ejercicio3/Algoritmo1.java
- ChainOfResponsability.Ejercicio3.Algoritmo1
-ChainOfResponsability/Ejercicio2/AyudaAlCliente.java
- ChainOfResponsability.Ejercicio2.AyudaAlCliente
-ChainOfResponsability/Ejercicio3/HandlerManager.java
- ChainOfResponsability.Ejercicio3.HandlerManager
-ChainOfResponsability/Ejercicio2/HandlerManager.java
- ChainOfResponsability.Ejercicio2.HandlerManager
-ChainOfResponsability/Ejercicio3/Algoritmo3.java
- ChainOfResponsability.Ejercicio3.Algoritmo3
-TareaCommand/IAcciones.java
- TareaCommand.IAcciones
-TareaCommand/Invoker.java
- TareaCommand.Invoker
-TareaCommand/Disparar.java
- TareaCommand.Disparar
-TareaCommand/Atacar.java
- TareaCommand.Atacar
-TareaCommand/ModoDefensa.java
- TareaCommand.ModoDefensa
-TareaCommand/Juego.java
- TareaCommand.Juego
-TareaCommand/Cliente.java
- TareaCommand.Cliente
-EjercicioState/Computadora.java
- EjercicioState.Computadora
-EjercicioState/Reiniciar.java
- EjercicioState.Reiniciar
-EjercicioState/Apagado.java
- EjercicioState.Apagado
-EjercicioState/IStateComputadora.java
- EjercicioState.IStateComputadora
+Examen/Ejercicio2Chain/Administrativo.java
+ Examen.Ejercicio2Chain.Administrativo
+Examen/Segundo3A/Persona.java
+ Examen.Segundo3A.Persona
+Examen/Ejercicio4Strategy/IOrden.java
+ Examen.Ejercicio4Strategy.IOrden
+TareaIterator/IteratorConcreteEmpresa2.java
+ TareaIterator.IteratorConcreteEmpresa2
+EjerciciosRestantes/AbstractFactory/InscripcionMatematicas.java
+ EjerciciosRestantes.AbstractFactory.InscripcionMatematicas
 EjercicioState/Prendido.java
  EjercicioState.Prendido
-EjercicioState/Cliente.java
- EjercicioState.Cliente
-TareaStrategy/IEstacion.java
- TareaStrategy.IEstacion
-TareaStrategy/Otono.java
- TareaStrategy.Otono
-TareaStrategy/Invierno.java
- TareaStrategy.Invierno
-TareaStrategy/Cliente.java
- TareaStrategy.Cliente
-TareaStrategy/Ropa.java
- TareaStrategy.Ropa
-TareaStrategy/Verano.java
- TareaStrategy.Verano
+Examen/SegundoParcial1A/EstadoDocumento.java
+ Examen.SegundoParcial1A.EstadoDocumento
+TareaInterpreter2/Abstract.java
+ TareaInterpreter2.Abstract
 TareaStrategy/Primavera.java
  TareaStrategy.Primavera
-EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/Cabo.java
- EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.Cabo
-EjerciciosPracticaSegundoParcial/Ejercicio1Memento/Tesis.java
- EjerciciosPracticaSegundoParcial.Ejercicio1Memento.Tesis
-EjerciciosPracticaSegundoParcial/Ejercicio1Memento/Originator.java
- EjerciciosPracticaSegundoParcial.Ejercicio1Memento.Originator
-EjerciciosPracticaSegundoParcial/Ejercicio1Memento/Cliente.java
- EjerciciosPracticaSegundoParcial.Ejercicio1Memento.Cliente
-EjerciciosPracticaSegundoParcial/Ejercicio1Memento/Memento.java
- EjerciciosPracticaSegundoParcial.Ejercicio1Memento.Memento
-EjerciciosPracticaSegundoParcial/Ejercicio1Memento/CareTaker.java
- EjerciciosPracticaSegundoParcial.Ejercicio1Memento.CareTaker
-EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/Cliente.java
- EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.Cliente
-EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/IEjercito.java
- EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.IEjercito
-EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/General.java
- EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.General
-EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/Coronel.java
- EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.Coronel
-EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/Teniente.java
- EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.Teniente
-EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/Memento.java
- EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.Memento
-EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/Cliente.java
- EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.Cliente
-EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/Celular.java
- EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.Celular
-EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/BusquedaMuchosModelo.java
- EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.BusquedaMuchosModelo
-EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/CadenaDeMando.java
- EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.CadenaDeMando
-EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/IBusquedaPrecio.java
- EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.IBusquedaPrecio
-EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/UsuarioDeWhatsapp.java
- EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.UsuarioDeWhatsapp
-EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/Cliente.java
- EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.Cliente
-EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/BusquedaMuchosPrecio.java
- EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.BusquedaMuchosPrecio
-EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/CareTaker.java
- EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.CareTaker
-EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/IBusquedaModelo.java
- EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.IBusquedaModelo
-EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/Usuario.java
- EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.Usuario
-EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/BusquedaPocosModelo.java
- EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.BusquedaPocosModelo
-EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/Codigo.java
- EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.Codigo
-EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/IVersion.java
- EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.IVersion
-EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/TiendaCelulares.java
- EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.TiendaCelulares
-EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/BusquedaPocosPrecio.java
- EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.BusquedaPocosPrecio
-EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/Whatsapp.java
- EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.Whatsapp
-EjerciciosPracticaSegundoParcial/Segundo3A/NotificacionFacebook.java
- EjerciciosPracticaSegundoParcial.Segundo3A.NotificacionFacebook
-EjerciciosPracticaSegundoParcial/Segundo3A/IUsuario.java
- EjerciciosPracticaSegundoParcial.Segundo3A.IUsuario
-TareaMediator/Cliente.java
- TareaMediator.Cliente
-TareaMediator/Skipe.java
- TareaMediator.Skipe
-EjerciciosPracticaSegundoParcial/Segundo3A/Persona.java
- EjerciciosPracticaSegundoParcial.Segundo3A.Persona
-TareaMediator/SM.java
- TareaMediator.SM
-EjerciciosPracticaSegundoParcial/Segundo3A/UsuarioRegistrado.java
- EjerciciosPracticaSegundoParcial.Segundo3A.UsuarioRegistrado
-TareaMediator/Colleague.java
- TareaMediator.Colleague
-TareaMediator/QA.java
- TareaMediator.QA
-EjerciciosPracticaSegundoParcial/Segundo3A/Cliente.java
- EjerciciosPracticaSegundoParcial.Segundo3A.Cliente
-EjerciciosPracticaSegundoParcial/Segundo3A/INotificacion.java
- EjerciciosPracticaSegundoParcial.Segundo3A.INotificacion
-TareaMediator/DEV.java
- TareaMediator.DEV
-TareaMediator/ICanalDeComunicacion.java
- TareaMediator.ICanalDeComunicacion
-EjerciciosPracticaSegundoParcial/Segundo3A/Notificacion.java
- EjerciciosPracticaSegundoParcial.Segundo3A.Notificacion
-EjercicioVisitor/IEditoresDeTexto.java
- EjercicioVisitor.IEditoresDeTexto
-EjercicioVisitor/Guardar.java
- EjercicioVisitor.Guardar
-EjercicioVisitor2/Bolivia.java
- EjercicioVisitor2.Bolivia
-EjercicioVisitor2/Argentina.java
- EjercicioVisitor2.Argentina
-EjercicioVisitor/Cliente.java
- EjercicioVisitor.Cliente
-EjercicioVisitor2/Brasil.java
- EjercicioVisitor2.Brasil
-EjercicioVisitor2/Italia.java
- EjercicioVisitor2.Italia
-EjercicioVisitor/Notepad.java
- EjercicioVisitor.Notepad
-EjercicioVisitor2/ILibreCambista.java
- EjercicioVisitor2.ILibreCambista
-EjercicioVisitor/Word.java
- EjercicioVisitor.Word
-EjercicioVisitor2/IPais.java
- EjercicioVisitor2.IPais
-EjercicioVisitor/IGuardar.java
- EjercicioVisitor.IGuardar
-EjercicioVisitor/Sublime.java
- EjercicioVisitor.Sublime
-EjercicioVisitor2/LibreCambista.java
- EjercicioVisitor2.LibreCambista
-EjercicioVisitor2/Cliente.java
- EjercicioVisitor2.Cliente
+TareaAdapter/Televisor.java
+ TareaAdapter.Televisor
+TareaAdapter/Lavadora.java
+ TareaAdapter.Lavadora
+TareaAdapter/IArtefactosElectronicos1.java
+ TareaAdapter.IArtefactosElectronicos1
+TareaAdapter/Computadora.java
+ TareaAdapter.Computadora
+TareaAdapter/Refrigerador.java
+ TareaAdapter.Refrigerador
+TareaAdapter/IArtefactosElectronicos2.java
+ TareaAdapter.IArtefactosElectronicos2
+TareaAdapter/Tablet.java
+ TareaAdapter.Tablet
+TareaAdapter/Celular.java
+ TareaAdapter.Celular
+TareaAdapter/Cliente.java
+ TareaAdapter.Cliente
+TareaAdapter/ArtefactosElectronicos.java
+ TareaAdapter.ArtefactosElectronicos
