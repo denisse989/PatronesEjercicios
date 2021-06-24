@@ -16,6 +16,8 @@ ChainOfResponsability/Ejercicio3/HandlerManager.java
  ChainOfResponsability.Ejercicio3.HandlerManager
 TareaInterpreter/Terminal6.java
  TareaInterpreter.Terminal6
+EjercicioBridge/NoBridge/Windowsx86.java
+ EjercicioBridge.NoBridge.Windowsx86
 Examen/Ejercicio2Chain/Estudiante.java
  Examen.Ejercicio2Chain.Estudiante
 TareaCommand/Cliente.java
@@ -52,6 +54,8 @@ TareaInterpreter/ContextNumeroEntero.java
  TareaInterpreter.ContextNumeroEntero
 TareaBuilder/PizzaClasica.java
  TareaBuilder.PizzaClasica
+TareaAdapter/IArtefactosElectronicos1.java
+ TareaAdapter.IArtefactosElectronicos1
 EjercicioVisitor/Word.java
  EjercicioVisitor.Word
 TareaStrategy/Invierno.java
@@ -84,6 +88,8 @@ EjercicioVisitor/Cliente.java
  EjercicioVisitor.Cliente
 EjercicioVisitor2/Italia.java
  EjercicioVisitor2.Italia
+TareaStrategy/Primavera.java
+ TareaStrategy.Primavera
 EjerciciosClase/Tira.java
  EjerciciosClase.Tira
 TareaFactory/Avion.java
@@ -110,6 +116,8 @@ EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/TiendaCelulares.java
  EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.TiendaCelulares
 Examen/Ejercicio5State/Computadora.java
  Examen.Ejercicio5State.Computadora
+TareaInterpreter2/Abstract.java
+ TareaInterpreter2.Abstract
 ChainOfResponsability/Ejercicio1/Support.java
  ChainOfResponsability.Ejercicio1.Support
 Examen/Ejercicio4Strategy/OrdenCI.java
@@ -138,12 +146,16 @@ TareaAbstractFactory/Crema.java
  TareaAbstractFactory.Crema
 TareaIterator/Empresa2.java
  TareaIterator.Empresa2
+EjercicioBridge/IPlataforma.java
+ EjercicioBridge.IPlataforma
 ChainOfResponsability/Ejercicio2/AyudaAlCliente.java
  ChainOfResponsability.Ejercicio2.AyudaAlCliente
 TareaMediator/Cliente.java
  TareaMediator.Cliente
 EjerciciosRestantes/FactoryMethod/Deportivo.java
  EjerciciosRestantes.FactoryMethod.Deportivo
+EjercicioBridge/NoBridge/Linux.java
+ EjercicioBridge.NoBridge.Linux
 Examen/ejercicio4Strategy2/Cliente.java
  Examen.ejercicio4Strategy2.Cliente
 TareaFactory/Cliente.java
@@ -174,12 +186,16 @@ ExamenA/ejercicio3A/ArtefactoElectrico.java
  ExamenA.ejercicio3A.ArtefactoElectrico
 TareaInterpreter/Terminal1.java
  TareaInterpreter.Terminal1
+TareaAdapter/Refrigerador.java
+ TareaAdapter.Refrigerador
 EjerciciosPracticaSegundoParcial/Ejercicio1Memento/Cliente.java
  EjerciciosPracticaSegundoParcial.Ejercicio1Memento.Cliente
 TareaBuilder/Dueno.java
  TareaBuilder.Dueno
 TareaCommand/Invoker.java
  TareaCommand.Invoker
+EjercicioBridge/Ax64.java
+ EjercicioBridge.Ax64
 Examen/Ejercicio5State/Cliente.java
  Examen.Ejercicio5State.Cliente
 Examen/Ejercicio5State/IStateComputadora.java
@@ -242,12 +258,16 @@ TareaPrototype/Cliente.java
  TareaPrototype.Cliente
 Examen/Ejercicio3Observer/Registro.java
  Examen.Ejercicio3Observer.Registro
+EjercicioBridge/NoBridge/IPlataforma.java
+ EjercicioBridge.NoBridge.IPlataforma
 EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/Cabo.java
  EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.Cabo
 TareaCommand/Disparar.java
  TareaCommand.Disparar
 Examen/SegundoParcial1A/GuardarCambio.java
  Examen.SegundoParcial1A.GuardarCambio
+TareaAdapter/Computadora.java
+ TareaAdapter.Computadora
 TareaFactory/PasajeInfantil.java
  TareaFactory.PasajeInfantil
 TareaInterpreter2/TerminalQuiero.java
@@ -258,6 +278,14 @@ ChainOfResponsability/Ejercicio1/Developer.java
  ChainOfResponsability.Ejercicio1.Developer
 Examen/Ejercicio3Observer/Persona.java
  Examen.Ejercicio3Observer.Persona
+TareaAdapter/Celular.java
+ TareaAdapter.Celular
+TareaAdapter/Televisor.java
+ TareaAdapter.Televisor
+TareaAdapter/Lavadora.java
+ TareaAdapter.Lavadora
+EjercicioBridge/NoBridge/Windowsx64.java
+ EjercicioBridge.NoBridge.Windowsx64
 EjerciciosRestantes/FactoryMethod/IKit.java
  EjerciciosRestantes.FactoryMethod.IKit
 ChainOfResponsability/Ejercicio1/Client.java
@@ -272,6 +300,8 @@ ExamenA/ejercicio3A/Batidora.java
  ExamenA.ejercicio3A.Batidora
 EjerciciosRestantes/FactoryMethod/KitEscolar.java
  EjerciciosRestantes.FactoryMethod.KitEscolar
+EjercicioBridge/IArquitectura.java
+ EjercicioBridge.IArquitectura
 Examen/ejercicio4Strategy2/OrdenPorNombre.java
  Examen.ejercicio4Strategy2.OrdenPorNombre
 ChainOfResponsability/Ejercicio3/Algoritmo1.java
@@ -300,6 +330,8 @@ TareasSingletonEjercicio/Cliente.java
  TareasSingletonEjercicio.Cliente
 Examen/Segundo3A/UsuarioRegistrado.java
  Examen.Segundo3A.UsuarioRegistrado
+TareaAdapter/IArtefactosElectronicos2.java
+ TareaAdapter.IArtefactosElectronicos2
 Examen/Ejercicio5State/Reiniciar.java
  Examen.Ejercicio5State.Reiniciar
 EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/IBusquedaModelo.java
@@ -312,6 +344,8 @@ Examen/SegundoParcial1B/Versionador.java
  Examen.SegundoParcial1B.Versionador
 TareaIterator/IteratorConcreteEmpresa3.java
  TareaIterator.IteratorConcreteEmpresa3
+EjercicioBridge/Ax86.java
+ EjercicioBridge.Ax86
 EjerciciosPracticaSegundoParcial/Ejercicio2ChainResponsability/CadenaDeMando.java
  EjerciciosPracticaSegundoParcial.Ejercicio2ChainResponsability.CadenaDeMando
 TareaFactory/CreatorPasajeEstandar.java
@@ -326,6 +360,8 @@ Examen/SegundoParcial1A/Documento.java
  Examen.SegundoParcial1A.Documento
 Examen/Ejercicio2Chain/Docente.java
  Examen.Ejercicio2Chain.Docente
+EjercicioBridge/NoBridge/Linuxx64.java
+ EjercicioBridge.NoBridge.Linuxx64
 EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/Celular.java
  EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.Celular
 EjerciciosRestantes/AbstractFactory/InscripcionLenguaje.java
@@ -356,6 +392,8 @@ EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/Cliente.java
  EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.Cliente
 TareaStrategy/Verano.java
  TareaStrategy.Verano
+TareaAdapter/Tablet.java
+ TareaAdapter.Tablet
 EjerciciosClase/BuilderParrilla.java
  EjerciciosClase.BuilderParrilla
 Examen/SegundoParcial1B/Versiones.java
@@ -448,6 +486,8 @@ TareaStrategy/Otono.java
  TareaStrategy.Otono
 EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/GrupoUsuarios.java
  EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.GrupoUsuarios
+TareaAdapter/ArtefactosElectronicos.java
+ TareaAdapter.ArtefactosElectronicos
 EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/IVersion.java
  EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.IVersion
 EjerciciosRestantes/Prototype/Cliente.java
@@ -460,10 +500,14 @@ TareaFactory/CreatorPasajeSolidario.java
  TareaFactory.CreatorPasajeSolidario
 asffdhgjhj/ITelevisor.java
  asffdhgjhj.ITelevisor
+EjercicioBridge/NoBridge/Linuxx86.java
+ EjercicioBridge.NoBridge.Linuxx86
 Examen/Ejercicio3Observer/Video.java
  Examen.Ejercicio3Observer.Video
 EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/Originator.java
  EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.Originator
+TareaAdapter/Cliente.java
+ TareaAdapter.Cliente
 TareaFactory/IPasaje.java
  TareaFactory.IPasaje
 EjerciciosClase/Parrillas.java
@@ -476,6 +520,8 @@ ChainOfResponsability/Ejercicio3/Persona.java
  ChainOfResponsability.Ejercicio3.Persona
 EjerciciosPracticaSegundoParcial/Ejercicio3MementoYObserver/Desarrolladores.java
  EjerciciosPracticaSegundoParcial.Ejercicio3MementoYObserver.Desarrolladores
+EjercicioBridge/NoBridge/Cliente.java
+ EjercicioBridge.NoBridge.Cliente
 EjerciciosRestantes/FactoryMethod/Computadora.java
  EjerciciosRestantes.FactoryMethod.Computadora
 EjerciciosRestantes/FactoryMethod/CreatorKit.java
@@ -536,27 +582,19 @@ EjercicioState/Prendido.java
  EjercicioState.Prendido
 Examen/SegundoParcial1A/EstadoDocumento.java
  Examen.SegundoParcial1A.EstadoDocumento
-TareaInterpreter2/Abstract.java
- TareaInterpreter2.Abstract
-TareaStrategy/Primavera.java
- TareaStrategy.Primavera
-TareaAdapter/Televisor.java
- TareaAdapter.Televisor
-TareaAdapter/Lavadora.java
- TareaAdapter.Lavadora
-TareaAdapter/IArtefactosElectronicos1.java
- TareaAdapter.IArtefactosElectronicos1
-TareaAdapter/Computadora.java
- TareaAdapter.Computadora
-TareaAdapter/Refrigerador.java
- TareaAdapter.Refrigerador
-TareaAdapter/IArtefactosElectronicos2.java
- TareaAdapter.IArtefactosElectronicos2
-TareaAdapter/Tablet.java
- TareaAdapter.Tablet
-TareaAdapter/Celular.java
- TareaAdapter.Celular
-TareaAdapter/Cliente.java
- TareaAdapter.Cliente
-TareaAdapter/ArtefactosElectronicos.java
- TareaAdapter.ArtefactosElectronicos
+EjercicioBridge/NoBridge/Windows.java
+ EjercicioBridge.NoBridge.Windows
+EjercicioBridge/Cliente.java
+ EjercicioBridge.Cliente
+EjercicioBridge/Windows.java
+ EjercicioBridge.Windows
+EjercicioBridge/Linux.java
+ EjercicioBridge.Linux
+TareaProxy/ITarjeta.java
+ TareaProxy.ITarjeta
+TareaProxy/Proxy.java
+ TareaProxy.Proxy
+TareaProxy/Cliente.java
+ TareaProxy.Cliente
+TareaProxy/TarjetaDebito.java
+ TareaProxy.TarjetaDebito
