@@ -598,3 +598,13 @@ TareaProxy/Cliente.java
  TareaProxy.Cliente
 TareaProxy/TarjetaDebito.java
  TareaProxy.TarjetaDebito
+TareaComposite/Computadora.java
+ TareaComposite.Computadora
+TareaComposite/Component.java
+ TareaComposite.Component
+TareaComposite/Global.java
+ TareaComposite.Global
+TareaComposite/Composite.java
+ TareaComposite.Composite
+TareaComposite/Cliente.java
+ TareaComposite.Cliente
