@@ -12,7 +12,7 @@ public class Skipe implements ICanalDeComunicacion{
     public void send(String message, Colleague colleague) {
         /*Colleague personaParseOrigen= (Colleague) colleague;
         for (Colleague persona:personasChat.) {
-            if ( !personaParseOrigen.getCi().equals(persona.getCi())){
+            if ( !personaParseOrigen.getId().equals(persona.getId())){
                 if (personaParseOrigen.getCargo().equals("SM")){
                     persona.messageReceived(message);
                 }

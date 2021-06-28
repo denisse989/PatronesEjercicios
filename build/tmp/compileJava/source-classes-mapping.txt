@@ -162,8 +162,8 @@ TareaFactory/Cliente.java
  TareaFactory.Cliente
 TareaMemento/Cliente.java
  TareaMemento.Cliente
-asffdhgjhj/Televisor.java
- asffdhgjhj.Televisor
+PracticaFinal/Ejercicio4Proxy/Proxy.java
+ PracticaFinal.Ejercicio4Proxy.Proxy
 TareasSingletonEjercicio/Banco.java
  TareasSingletonEjercicio.Banco
 EjercicioVisitor2/Cliente.java
@@ -174,8 +174,8 @@ EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/Cliente.java
  EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.Cliente
 Examen/SegundoParcial1A/Cliente.java
  Examen.SegundoParcial1A.Cliente
-Examen/Ejercicio4Strategy/Cliente.java
- Examen.Ejercicio4Strategy.Cliente
+PracticaFinal/a.java
+ PracticaFinal.a
 EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/Whatsapp.java
  EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.Whatsapp
 ChainOfResponsability/Ejercicio1/DevOps.java
@@ -234,8 +234,8 @@ TareaAbstractFactory/HeladoAgua.java
  TareaAbstractFactory.HeladoAgua
 EjercicioVisitor2/Bolivia.java
  EjercicioVisitor2.Bolivia
-TareaMediator/Skipe.java
- TareaMediator.Skipe
+PracticaFinal/Ejercicio2Bridge/PagoAplicacionEmpresa.java
+ PracticaFinal.Ejercicio2Bridge.PagoAplicacionEmpresa
 Examen/SegundoParcial1B/Archivo.java
  Examen.SegundoParcial1B.Archivo
 TareaIterator/Empresa3.java
@@ -452,8 +452,8 @@ EjerciciosPracticaSegundoParcial/Ejercicio4Strategy/BusquedaMuchosModelo.java
  EjerciciosPracticaSegundoParcial.Ejercicio4Strategy.BusquedaMuchosModelo
 TareaInterpreter2/TerminalPara.java
  TareaInterpreter2.TerminalPara
-asffdhgjhj/Cliente.java
- asffdhgjhj.Cliente
+PracticaFinal/Ejercicio4Proxy/Usuario.java
+ PracticaFinal.Ejercicio4Proxy.Usuario
 EjerciciosRestantes/AbstractFactory/FactoryInscripcion.java
  EjerciciosRestantes.AbstractFactory.FactoryInscripcion
  EjerciciosRestantes.AbstractFactory.FactoryInscripcion$1
@@ -498,8 +498,8 @@ EjerciciosPracticaSegundoParcial/Ejercicio5Mediator/UsuarioDeWhatsapp.java
  EjerciciosPracticaSegundoParcial.Ejercicio5Mediator.UsuarioDeWhatsapp
 TareaFactory/CreatorPasajeSolidario.java
  TareaFactory.CreatorPasajeSolidario
-asffdhgjhj/ITelevisor.java
- asffdhgjhj.ITelevisor
+PracticaFinal/Ejercicio4Proxy/ICluster.java
+ PracticaFinal.Ejercicio4Proxy.ICluster
 EjercicioBridge/NoBridge/Linuxx86.java
  EjercicioBridge.NoBridge.Linuxx86
 Examen/Ejercicio3Observer/Video.java
@@ -608,3 +608,128 @@ TareaComposite/Composite.java
  TareaComposite.Composite
 TareaComposite/Cliente.java
  TareaComposite.Cliente
+EjercicioDecorator/IBanco.java
+ EjercicioDecorator.IBanco
+EjercicioDecorator/Funcionalidades.java
+ EjercicioDecorator.Funcionalidades
+EjercicioDecorator/Seguro.java
+ EjercicioDecorator.Seguro
+EjercicioDecorator/BancaInternet.java
+ EjercicioDecorator.BancaInternet
+EjercicioDecorator/Cuenta.java
+ EjercicioDecorator.Cuenta
+EjercicioDecorator/Promocion.java
+ EjercicioDecorator.Promocion
+EjercicioDecorator/Cliente.java
+ EjercicioDecorator.Cliente
+PracticaFinal/Ejercicio1Decorator/Personaje.java
+ PracticaFinal.Ejercicio1Decorator.Personaje
+PracticaFinal/Ejercicio1Decorator/IJuegoWarcraft.java
+ PracticaFinal.Ejercicio1Decorator.IJuegoWarcraft
+PracticaFinal/Ejercicio1Decorator/AgregarEscudo.java
+ PracticaFinal.Ejercicio1Decorator.AgregarEscudo
+Examen/Ejercicio4Strategy/Cliente.java
+ Examen.Ejercicio4Strategy.Cliente
+PracticaFinal/Ejercicio1Decorator/AgregarPocion.java
+ PracticaFinal.Ejercicio1Decorator.AgregarPocion
+PracticaFinal/Ejercicio1Decorator/Cliente.java
+ PracticaFinal.Ejercicio1Decorator.Cliente
+PracticaFinal/Ejercicio1Decorator/AgregarArma.java
+ PracticaFinal.Ejercicio1Decorator.AgregarArma
+PracticaFinal/Ejercicio2Bridge/InstalacionElectrica.java
+ PracticaFinal.Ejercicio2Bridge.InstalacionElectrica
+PracticaFinal/Ejercicio2Bridge/PagoTransferencia.java
+ PracticaFinal.Ejercicio2Bridge.PagoTransferencia
+PracticaFinal/Ejercicio2Bridge/InstalacionAgua.java
+ PracticaFinal.Ejercicio2Bridge.InstalacionAgua
+PracticaFinal/Ejercicio2Bridge/PagoEfectivo.java
+ PracticaFinal.Ejercicio2Bridge.PagoEfectivo
+PracticaFinal/Ejercicio2Bridge/PagoTigo.java
+ PracticaFinal.Ejercicio2Bridge.PagoTigo
+PracticaFinal/Ejercicio2Bridge/Cliente.java
+ PracticaFinal.Ejercicio2Bridge.Cliente
+PracticaFinal/Ejercicio2Bridge/InstalacionAlcantarillado.java
+ PracticaFinal.Ejercicio2Bridge.InstalacionAlcantarillado
+PracticaFinal/Ejercicio2Bridge/IPago.java
+ PracticaFinal.Ejercicio2Bridge.IPago
+PracticaFinal/Ejercicio2Bridge/IInstalacion.java
+ PracticaFinal.Ejercicio2Bridge.IInstalacion
+PracticaFinal/Ejercicio3Composite/BasicArchivo.java
+ PracticaFinal.Ejercicio3Composite.BasicArchivo
+PracticaFinal/Ejercicio3Composite/Composite.java
+ PracticaFinal.Ejercicio3Composite.Composite
+PracticaFinal/Ejercicio3Composite/Archivo.java
+ PracticaFinal.Ejercicio3Composite.Archivo
+PracticaFinal/Ejercicio3Composite/Cliente.java
+ PracticaFinal.Ejercicio3Composite.Cliente
+TareaMediator/Skipe.java
+ TareaMediator.Skipe
+PracticaFinal/Ejercicio4Proxy/Servidor1.java
+ PracticaFinal.Ejercicio4Proxy.Servidor1
+PracticaFinal/Ejercicio4Proxy/Cliente.java
+ PracticaFinal.Ejercicio4Proxy.Cliente
+PracticaFinal/Ejercicio4Proxy/Servidor2.java
+ PracticaFinal.Ejercicio4Proxy.Servidor2
+PracticaFinal/Ejercicio5Adapter/Cliente.java
+ PracticaFinal.Ejercicio5Adapter.Cliente
+PracticaFinal/Ejercicio5Adapter/Escritorio.java
+ PracticaFinal.Ejercicio5Adapter.Escritorio
+PracticaFinal/Ejercicio5Adapter/AplicacionAdapter.java
+ PracticaFinal.Ejercicio5Adapter.AplicacionAdapter
+PracticaFinal/Ejercicio5Adapter/WEB.java
+ PracticaFinal.Ejercicio5Adapter.WEB
+PracticaFinal/Ejercicio5Adapter/IOS.java
+ PracticaFinal.Ejercicio5Adapter.IOS
+PracticaFinal/Ejercicio5Adapter/IAplicacionesMoviles.java
+ PracticaFinal.Ejercicio5Adapter.IAplicacionesMoviles
+PracticaFinal/Ejercicio5Adapter/WindowsPhone.java
+ PracticaFinal.Ejercicio5Adapter.WindowsPhone
+PracticaFinal/Ejercicio5Adapter/IAplicacionesComputadora.java
+ PracticaFinal.Ejercicio5Adapter.IAplicacionesComputadora
+PracticaFinal/Ejercicio5Adapter/Android.java
+ PracticaFinal.Ejercicio5Adapter.Android
+Ejercicio7Extra/Contabilidad.java
+ Ejercicio7Extra.Contabilidad
+PracticaFinal/Ejercicio6Visitor/IAparatoElectronico.java
+ PracticaFinal.Ejercicio6Visitor.IAparatoElectronico
+Ejercicio7Extra/VicePresidente.java
+ Ejercicio7Extra.VicePresidente
+PracticaFinal/Ejercicio6Visitor/Celular.java
+ PracticaFinal.Ejercicio6Visitor.Celular
+Ejercicio7Extra/Presidente.java
+ Ejercicio7Extra.Presidente
+Ejercicio7Extra/Duenos.java
+ Ejercicio7Extra.Duenos
+PracticaFinal/Ejercicio6Visitor/IAplicacionVisitor.java
+ PracticaFinal.Ejercicio6Visitor.IAplicacionVisitor
+Ejercicio7Extra/Notificador.java
+ Ejercicio7Extra.Notificador
+Ejercicio7Extra/NotificarTransaccion.java
+ Ejercicio7Extra.NotificarTransaccion
+PracticaFinal/Ejercicio6Visitor/Televisor.java
+ PracticaFinal.Ejercicio6Visitor.Televisor
+PracticaFinal/Ejercicio6Visitor/Cliente.java
+ PracticaFinal.Ejercicio6Visitor.Cliente
+PracticaFinal/Ejercicio6Visitor/AplicacionVisitor.java
+ PracticaFinal.Ejercicio6Visitor.AplicacionVisitor
+PracticaFinal/Ejercicio6Visitor/Computadora.java
+ PracticaFinal.Ejercicio6Visitor.Computadora
+Ejercicio7Extra/IComputadora.java
+ Ejercicio7Extra.IComputadora
+Ejercicio7Extra/Laptop.java
+ Ejercicio7Extra.Laptop
+Ejercicio7Extra/Cliente.java
+ Ejercicio7Extra.Cliente
+ Ejercicio7Extra.Cliente$1
+ Ejercicio7Extra.Cliente$2
+ Ejercicio7Extra.Cliente$3
+Ejercicio7Extra/Tablet.java
+ Ejercicio7Extra.Tablet
+Ejercicio7Extra/PC.java
+ Ejercicio7Extra.PC
+Ejercicio7Extra/IReparacion.java
+ Ejercicio7Extra.IReparacion
+Ejercicio7Extra/Reparacion.java
+ Ejercicio7Extra.Reparacion
+Ejercicio7Extra/CuentaSingleton.java
+ Ejercicio7Extra.CuentaSingleton

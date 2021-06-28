@@ -10,7 +10,7 @@ public class Cliente {
         OrdenNombre ordenNombre = new OrdenNombre();
         OrdenNacimientoOProfesion ordenNacimientoOProfesion = new OrdenNacimientoOProfesion();
 
-        Usuarios usuario1 = new Usuarios(1, "a", 20001225, "artista");
+        Usuarios usuario1 = new Usuarios(1, "Ejercicio1Decorator", 20001225, "artista");
         Usuarios usuario2 = new Usuarios(2, "c", 20021225, "bajista");
         Usuarios usuario3 = new Usuarios(3, "b", 20061225, "cantante");
         Usuarios usuario4 = new Usuarios(4, "e", 20041225, "escritor");

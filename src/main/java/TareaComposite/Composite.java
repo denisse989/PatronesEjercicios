@@ -12,13 +12,16 @@ public class Composite extends Component {
 
     @Override
     public void precio() {
-        Global.totalPrecio=Global.totalPrecio+this.getPrecio();
+
+        Global.totalPrecio=0;
         for (Component componente:list ) {
             componente.precio();
+            Global.totalPrecio=Global.totalPrecio+componente.getPrecio();
 
         }
         System.out.println("COMPONENTE : "+getNombre());
         System.out.println("PRECIO TOTAL : " + Global.totalPrecio );
+
     }
 
 
@@ -35,6 +38,7 @@ public class Composite extends Component {
 
     @Override
     public void getChild(int position) {
+        System.out.println("Precio: "+list.get(position).getPrecio());
 
     }
 }
